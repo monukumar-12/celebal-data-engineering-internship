@@ -1,0 +1,15 @@
+
+| File Name                    | Description                                                                            |
+| ---------------------------- | -------------------------------------------------------------------------------------- |
+| `01-resource-group.png`      | Azure Resource Group created successfully.                                             |
+| `02-storage-account.png`     | Azure Storage Account overview.                                                        |
+| `03-blob-container.png`      | Blob container with the uploaded **Sample-Superstore.csv** file.                       |
+| `04-linked-service.png`      | Linked Service configuration connecting Azure Data Factory to Azure Blob Storage.      |
+| `05-source-dataset.png`      | Source dataset configuration in Azure Data Factory.                                    |
+| `06-destination-dataset.png` | Destination dataset configuration in Azure Data Factory.                               |
+| `07-get-metadata.png`        | Get Metadata activity configured in the pipeline.                                      |
+| `08-pipeline-design.png`     | Pipeline design showing the Get Metadata and Copy Data activities.                     |
+| `09-pipeline-execution.png`  | Successful pipeline execution (Debug/Trigger).                                         |
+| `10-output-container.png`    | Output Blob container showing the copied CSV file.                                     |
+| `11-role-assignment.png`     | IAM role assignments (Reader, Contributor, and Storage access for Azure Data Factory). |
+
