@@ -1,0 +1,521 @@
+user_id,transaction_date,region,product_category,sale_amount,age,subscription,city,email,username,price,store_id,status,raw_timestamp
+U1330,10/11/2024,East,Clothing,199.46,24,Premium,Georgetown,user330@example.com,user_330,689.66,S014,Inactive,2024-10-20 04:00:00
+U1369,03/08/2024,North,Groceries,,23,Free,Franklin,user369@example.com,user_369,376.07,S006,Pending,2025-02-04 22:00:00
+U1144,2024-06-29,East,Books,96.1,50,Free,Springfield,user144@example.com,user_144,819.82,S002,Active,2024-07-30 04:00:00
+U1412,07/28/2024,South,Clothing,356.57,64,Premium,Greenville,user412@example.com,user_412,51.81,S010,Pending,2024-09-09 17:00:00
+U1456,2024-08-11,South,Electronics,494.47,51,Basic,Salem,user456@example.com,user_456,132.42,S003,Inactive,2024-05-25 05:00:00
+U1145,2024-11-18,West,Books,113.27,45,Basic,Springfield,user145@example.com,user_145,488.37,S016,Active,2024-01-04 17:00:00
+U1312,03/19/2024,North,Home & Kitchen,59.68,49,Free,Riverside,user312@example.com,user_312,40.96,S004,,2024-04-08 03:00:00
+U1058,02/08/2024,North,Groceries,201.75,21,Basic,Georgetown,user58@example.com,user_58,493.07,S018,Active,2024-11-12 02:00:00
+U1485,2024-09-15,South,Books,484.18,48,Free,Riverside,user485@example.com,user_485,,S006,Pending,2024-03-01 19:00:00
+U1008,2024-12-14,North,Books,150.28,26,Basic,Springfield,user8@example.com,user_8,505.58,S006,Active,2024-11-16 09:00:00
+U1282,11/23/2024,South,Electronics,330.16,67,Free,Clinton,user282@example.com,user_282,701.47,S020,Inactive,2024-12-11 01:00:00
+U1198,2024-08-02,East,Books,274.11,17,Basic,Madison,user198@example.com,user_198,569.99,S011,,2024-05-18 05:00:00
+U1156,01/04/2024,North,Sports,431.79,44,Basic,Georgetown,user156@example.com,user_156,144.76,S011,Inactive,2024-09-02 10:00:00
+U1351,02/17/2024,West,Home & Kitchen,81.27,37,Basic,Clinton,user351@example.com,user_351,823.92,S017,Inactive,2024-04-15 23:00:00
+U1288,2024-03-02,South,Sports,,70,Free,Springfield,user288@example.com,user_288,899.14,S019,Pending,2024-09-08 05:00:00
+U1352,01/19/2024,South,Books,62.34,35,Premium,Riverside,user352@example.com,user_352,768.52,S010,Active,2024-10-22 09:00:00
+U1302,2024-11-16,North,Groceries,268.31,33,Basic,Greenville,user302@example.com,user_302,640.52,S020,,2024-05-19 22:00:00
+U1181,05/03/2024,West,Sports,10.97,39,Basic,Franklin,user181@example.com,user_181,550.89,S006,,2025-01-29 02:00:00
+U1089,02/13/2024,South,Books,407.53,58,Free,Riverside,user89@example.com,user_89,368.97,S006,Inactive,2024-06-23 15:00:00
+U1256,2024-11-10,West,Books,193.78,66,Premium,Georgetown,user256@example.com,user_256,,S017,Pending,2024-09-20 16:00:00
+U1232,2025-01-29,West,Books,418.88,19,Free,Riverside,user232@example.com,user_232,479.65,S005,Inactive,2024-12-21 21:00:00
+U1081,12/08/2024,West,Home & Kitchen,25.94,17,Basic,Riverside,user81@example.com,user_81,712.4,S014,Pending,2024-02-28 12:00:00
+U1212,2024-04-26,South,Sports,270.08,46,Free,Greenville,user212@example.com,user_212,717.16,S017,Inactive,2024-03-02 14:00:00
+U1440,2024-06-01,South,Groceries,443.43,41,Free,Franklin,user440@example.com,user_440,129.44,S019,Pending,2024-09-11 02:00:00
+U1223,12/30/2024,East,Clothing,123.95,19,Free,Georgetown,user223@example.com,user_223,658.85,S010,Pending,2024-08-02 12:00:00
+U1111,01/27/2025,West,Home & Kitchen,275.06,57,Basic,Salem,user111@example.com,user_111,459.01,S002,Inactive,2024-08-13 13:00:00
+U1088,2024-06-20,North,Electronics,196.35,32,Free,Franklin,user88@example.com,user_88,356.32,S013,Inactive,2024-10-31 22:00:00
+U1251,10/14/2024,East,Sports,400.42,34,Free,Springfield,user251@example.com,user_251,976.06,S011,Active,2024-01-07 23:00:00
+U1040,09/24/2024,South,Home & Kitchen,366.86,33,Basic,Greenville,user40@example.com,user_40,251.42,S015,,2024-06-21 00:00:00
+U1019,03/21/2024,North,Sports,404.51,49,Premium,Clinton,user19@example.com,user_19,271.82,S004,Inactive,2024-05-19 09:00:00
+U1279,10/12/2024,East,Groceries,244.46,35,Free,Madison,user279@example.com,user_279,865.19,S004,Inactive,2024-08-16 22:00:00
+U1476,2024-06-20,West,Clothing,210.8,65,Premium,Greenville,user476@example.com,user_476,179.55,S009,Pending,2025-01-01 13:00:00
+U1134,07/12/2024,West,Books,437.9,24,Free,Madison,user134@example.com,user_134,136.07,S008,Active,2025-01-22 00:00:00
+U1153,01/03/2024,South,Groceries,55.6,21,Premium,Georgetown,user153@example.com,user_153,36.0,S012,Active,2024-11-01 19:00:00
+U1271,2024-08-13,East,Electronics,144.0,25,Premium,Franklin,user271@example.com,user_271,238.04,S011,Active,2024-09-03 21:00:00
+U1477,2024-07-03,East,Sports,117.95,67,Basic,Georgetown,user477@example.com,user_477,520.99,S012,Active,2024-08-14 04:00:00
+U1372,12/27/2024,South,Groceries,435.79,16,Basic,Salem,user372@example.com,user_372,956.31,S004,Pending,2024-08-09 19:00:00
+U1427,2024-05-22,South,Electronics,247.22,30,Free,Franklin,,user_427,503.15,S001,Inactive,2024-07-14 19:00:00
+U1394,01/24/2025,East,Groceries,395.83,56,Free,Franklin,user394@example.com,user_394,417.58,S017,,2024-04-20 18:00:00
+U1001,2024-11-23,West,Books,115.49,63,Premium,Riverside,user1@example.com,user_1,240.33,S020,Active,2024-10-14 06:00:00
+U1335,05/18/2024,East,Books,105.4,29,Premium,Franklin,user335@example.com,user_335,495.04,S011,,2024-05-06 13:00:00
+U1486,2024-07-28,West,Groceries,24.94,25,Premium,Madison,user486@example.com,user_486,37.7,S005,Inactive,2024-10-28 13:00:00
+U1316,10/08/2024,North,Books,499.22,44,Basic,Madison,user316@example.com,user_316,418.22,S014,Pending,2024-11-07 07:00:00
+U1009,2024-11-23,East,Groceries,271.99,65,Free,Springfield,user9@example.com,user_9,369.35,S010,Inactive,2024-01-30 07:00:00
+U1024,06/28/2024,East,Clothing,,28,Basic,Madison,user24@example.com,user_24,357.63,S017,,2024-12-13 17:00:00
+U1074,04/26/2024,North,Home & Kitchen,366.16,36,Basic,Madison,user74@example.com,user_74,923.76,S003,Active,2024-02-13 02:00:00
+U1086,09/16/2024,South,Sports,396.95,18,Basic,Greenville,user86@example.com,user_86,71.25,S004,Pending,2024-12-31 02:00:00
+U1417,09/22/2024,North,Home & Kitchen,460.85,26,Premium,Greenville,user417@example.com,user_417,898.09,S020,Active,2024-08-01 14:00:00
+U1405,2024-05-27,East,Groceries,478.33,55,Premium,Clinton,user405@example.com,user_405,905.66,S005,Inactive,2024-05-01 03:00:00
+U1187,07/05/2024,East,Clothing,429.46,51,Free,Georgetown,user187@example.com,user_187,326.74,S003,Pending,2024-03-02 16:00:00
+U1215,05/26/2024,South,Groceries,245.36,54,Basic,Springfield,user215@example.com,user_215,684.0,S013,Active,2024-07-21 10:00:00
+U1077,2024-11-10,North,Electronics,352.84,35,Basic,Madison,,user_77,406.78,S005,Active,2024-02-16 23:00:00
+U1207,02/21/2024,East,Clothing,400.6,18,Basic,Springfield,user207@example.com,user_207,178.4,S013,Inactive,2025-01-09 02:00:00
+U1114,09/12/2024,South,Groceries,49.57,41,Free,Salem,user114@example.com,user_114,60.04,S016,,2024-05-26 17:00:00
+U1498,08/19/2024,East,Books,174.11,45,Free,Madison,,user_498,12.03,S016,Active,2024-01-05 21:00:00
+U1055,2025-01-17,West,Groceries,427.93,37,Free,Clinton,user55@example.com,user_55,591.07,S016,Inactive,2024-08-16 17:00:00
+U1179,2024-08-14,West,Electronics,65.96,62,Basic,Madison,user179@example.com,user_179,284.2,S003,Inactive,2024-10-10 19:00:00
+U1237,08/12/2024,West,Groceries,95.52,41,Basic,Salem,user237@example.com,user_237,801.9,S006,Active,2024-03-08 22:00:00
+U1231,03/25/2024,West,Clothing,492.52,29,Free,Springfield,user231@example.com,user_231,654.03,S002,,2024-11-23 08:00:00
+U1192,06/10/2024,North,Groceries,120.64,28,Premium,Riverside,user192@example.com,user_192,412.45,S018,Pending,2025-01-29 06:00:00
+U1107,07/03/2024,South,Sports,442.7,20,Basic,Georgetown,user107@example.com,user_107,771.47,S019,Active,2024-03-05 10:00:00
+U1336,2024-07-26,South,Books,307.69,63,Free,Springfield,user336@example.com,user_336,51.99,S008,,2025-01-11 01:00:00
+U1324,2024-06-27,North,Groceries,16.98,35,Premium,Madison,user324@example.com,user_324,154.36,S002,Inactive,2024-04-12 21:00:00
+U1467,2024-03-10,East,Electronics,349.54,28,Premium,Greenville,user467@example.com,user_467,843.67,S018,Inactive,2024-02-14 09:00:00
+U1404,12/01/2024,South,Sports,267.43,51,Basic,Salem,user404@example.com,user_404,180.02,S009,Inactive,2024-09-04 11:00:00
+U1358,02/24/2024,West,Groceries,203.4,42,Premium,Greenville,user358@example.com,user_358,347.31,S019,,2024-08-10 18:00:00
+U1382,2024-03-12,East,Electronics,298.51,47,Basic,Riverside,user382@example.com,user_382,965.3,S015,Active,2024-01-19 10:00:00
+U1339,2024-06-14,West,Electronics,227.45,39,Premium,Georgetown,user339@example.com,user_339,168.3,S018,,2024-01-23 05:00:00
+U1385,2024-10-29,West,Electronics,400.59,30,Premium,Greenville,user385@example.com,user_385,681.61,S011,Active,2024-12-16 18:00:00
+U1298,07/18/2024,East,Clothing,224.36,24,Premium,Franklin,,user_298,331.95,S016,,2024-10-03 08:00:00
+U1020,2024-11-05,North,Clothing,427.19,48,Basic,Clinton,user20@example.com,user_20,429.34,S009,Active,2024-01-02 10:00:00
+U1275,09/24/2024,East,Sports,240.56,55,Free,Springfield,user275@example.com,user_275,102.26,S005,Active,2025-01-31 21:00:00
+U1157,03/31/2024,North,Groceries,318.29,52,Premium,Madison,user157@example.com,user_157,122.75,S019,Inactive,2024-10-30 17:00:00
+U1080,2024-07-21,West,Clothing,109.56,24,Basic,Clinton,user80@example.com,,183.94,S013,Inactive,2024-09-13 17:00:00
+U1379,2024-11-23,West,Books,80.05,37,Basic,Springfield,user379@example.com,user_379,441.7,S003,Inactive,2024-01-02 12:00:00
+U1399,2025-01-11,North,Electronics,185.97,55,Premium,Madison,user399@example.com,user_399,565.15,S007,Inactive,2024-06-20 07:00:00
+U1250,05/26/2024,East,Electronics,151.09,64,Free,Springfield,user250@example.com,user_250,678.77,S018,Inactive,2025-01-15 20:00:00
+U1376,04/04/2024,North,Home & Kitchen,42.48,45,Basic,Georgetown,user376@example.com,user_376,264.76,S003,Pending,2025-02-01 01:00:00
+U1090,2024-04-08,East,Clothing,422.99,22,Free,Springfield,user90@example.com,user_90,601.27,S005,Inactive,2024-04-02 22:00:00
+U1284,01/06/2025,North,Groceries,481.71,45,Basic,Springfield,user284@example.com,user_284,81.66,S010,Pending,2024-02-29 16:00:00
+U1136,2024-02-04,West,Home & Kitchen,353.13,19,Premium,Springfield,user136@example.com,user_136,865.09,S002,Inactive,2024-09-14 09:00:00
+U1094,09/14/2024,East,Home & Kitchen,190.58,17,Basic,Riverside,user94@example.com,user_94,146.22,S010,,2024-12-22 04:00:00
+U1400,2024-10-03,South,Books,292.16,60,Premium,Greenville,user400@example.com,user_400,428.7,S002,Active,2024-07-09 11:00:00
+U1078,2024-09-28,South,Home & Kitchen,82.92,35,Free,Madison,user78@example.com,user_78,62.08,S006,Active,2024-12-11 02:00:00
+U1462,04/05/2024,South,Electronics,174.16,45,Free,Greenville,user462@example.com,user_462,532.01,S017,Active,2024-05-28 14:00:00
+U1148,07/12/2024,West,Books,,26,Premium,Salem,user148@example.com,user_148,977.56,S004,Active,2024-04-27 06:00:00
+U1190,01/05/2024,West,Books,370.35,35,Premium,Greenville,user190@example.com,user_190,69.3,S005,Pending,2024-02-17 01:00:00
+U1114,09/12/2024,South,Groceries,49.57,41,Free,Salem,user114@example.com,user_114,60.04,S016,,2024-05-26 17:00:00
+U1092,10/19/2024,South,Groceries,253.94,42,Premium,Greenville,user92@example.com,user_92,644.77,S012,Active,2024-12-30 16:00:00
+U1493,03/13/2024,North,Groceries,414.73,23,Premium,Greenville,user493@example.com,user_493,513.54,S017,,2024-02-28 08:00:00
+U1093,03/04/2024,West,Clothing,453.13,25,Basic,Riverside,user93@example.com,user_93,356.09,S001,,2024-01-28 12:00:00
+U1235,2024-12-09,West,Sports,78.83,21,Free,Riverside,user235@example.com,user_235,238.85,S010,Pending,2024-08-25 01:00:00
+U1368,12/21/2024,North,Electronics,291.18,52,Premium,Clinton,user368@example.com,user_368,91.69,S017,Active,2024-05-22 08:00:00
+U1105,2024-10-14,North,Groceries,111.21,55,Basic,Salem,user105@example.com,user_105,180.93,S015,Active,2024-12-15 10:00:00
+U1494,02/01/2024,South,Sports,244.66,42,Free,Greenville,user494@example.com,,590.31,S004,Inactive,2025-01-25 17:00:00
+U1047,2024-11-13,West,Clothing,136.0,21,Premium,Greenville,user47@example.com,user_47,,S015,,2024-05-29 01:00:00
+U1186,03/26/2024,East,Groceries,447.66,59,Free,Riverside,user186@example.com,user_186,,S001,Inactive,2024-01-24 15:00:00
+U1259,2024-05-08,East,Groceries,228.31,41,Basic,Madison,,user_259,645.01,S020,Active,2025-01-22 23:00:00
+U1429,2024-01-10,South,Electronics,160.71,40,Basic,Salem,,user_429,781.59,S006,,2024-08-08 04:00:00
+U1283,2024-07-03,West,Clothing,141.59,41,Basic,Georgetown,user283@example.com,user_283,,S003,Active,2024-10-08 09:00:00
+U1281,2024-08-10,West,Groceries,44.62,18,Free,Georgetown,user281@example.com,user_281,293.6,S020,Active,2025-01-31 05:00:00
+U1473,2024-04-17,West,Groceries,181.74,26,Premium,Springfield,user473@example.com,user_473,234.42,S018,Inactive,2024-09-06 08:00:00
+U1424,2024-09-09,South,Groceries,369.41,59,Basic,Greenville,user424@example.com,user_424,196.9,S003,,2024-12-13 11:00:00
+U1285,05/11/2024,South,Home & Kitchen,386.13,64,Basic,Salem,user285@example.com,user_285,487.15,S009,Active,2024-07-14 20:00:00
+U1070,2024-04-15,East,Sports,435.5,37,Premium,Springfield,user70@example.com,user_70,544.81,S006,Active,2024-12-04 00:00:00
+U1475,2024-11-08,West,Sports,316.81,29,Basic,Franklin,user475@example.com,user_475,503.41,S004,Inactive,2024-11-27 11:00:00
+U1361,05/29/2024,South,Clothing,439.33,35,Free,Clinton,user361@example.com,user_361,915.97,S003,Active,2024-11-09 16:00:00
+U1108,2024-11-24,South,Home & Kitchen,175.53,69,Free,Franklin,user108@example.com,user_108,869.53,S004,Inactive,2024-06-04 05:00:00
+U1269,2024-12-08,North,Home & Kitchen,230.05,18,Premium,Madison,user269@example.com,user_269,280.76,S009,Inactive,2024-07-11 20:00:00
+U1343,03/23/2024,East,Home & Kitchen,183.29,18,Premium,Clinton,user343@example.com,user_343,760.86,S018,Active,2024-05-29 15:00:00
+U1165,04/10/2024,West,Groceries,247.29,56,Basic,Georgetown,user165@example.com,user_165,847.06,S020,Inactive,2024-12-10 22:00:00
+U1455,2024-08-11,North,Books,383.02,25,Free,Salem,user455@example.com,user_455,45.5,S009,Inactive,2024-12-27 14:00:00
+U1164,2024-11-10,South,Sports,7.2,29,Premium,Clinton,user164@example.com,user_164,110.73,S018,Inactive,2024-07-06 10:00:00
+U1210,2024-01-14,East,Books,45.56,70,Premium,Clinton,user210@example.com,user_210,272.35,S018,,2024-04-04 11:00:00
+U1311,09/16/2024,East,Electronics,185.22,55,Premium,Madison,user311@example.com,user_311,393.62,S017,,2025-01-27 17:00:00
+U1152,12/14/2024,West,Sports,126.99,20,Premium,Clinton,user152@example.com,user_152,742.26,S011,Pending,2024-02-24 02:00:00
+U1319,2024-06-02,South,Sports,368.46,62,Basic,Salem,user319@example.com,user_319,580.47,S004,Pending,2024-01-20 23:00:00
+U1272,09/02/2024,East,Sports,417.52,17,Premium,Springfield,user272@example.com,user_272,517.52,S019,Inactive,2024-01-29 05:00:00
+U1276,11/28/2024,South,Groceries,350.33,43,Premium,Salem,user276@example.com,user_276,743.98,S019,Active,2024-08-05 04:00:00
+U1139,07/30/2024,East,Home & Kitchen,105.65,57,Premium,Salem,user139@example.com,user_139,198.58,S009,,2024-12-10 19:00:00
+U1461,08/09/2024,East,Groceries,416.87,48,Premium,Salem,user461@example.com,user_461,604.34,S003,,2024-07-07 19:00:00
+U1188,2024-12-10,East,Clothing,490.8,41,Premium,Salem,user188@example.com,user_188,95.52,S015,Active,2024-07-07 06:00:00
+U1156,01/04/2024,North,Sports,431.79,44,Basic,Georgetown,user156@example.com,user_156,144.76,S011,Inactive,2024-09-02 10:00:00
+U1048,04/28/2024,North,Books,40.23,30,Basic,Greenville,user48@example.com,user_48,909.33,S005,Active,2024-01-31 05:00:00
+U1353,2024-11-23,North,Clothing,141.94,36,Basic,Riverside,user353@example.com,user_353,958.72,S018,Active,2024-04-15 17:00:00
+U1147,09/26/2024,North,Groceries,44.11,41,Basic,Greenville,user147@example.com,user_147,849.39,S002,Active,2024-07-26 12:00:00
+U1060,2024-08-08,East,Sports,342.49,27,Premium,Franklin,user60@example.com,user_60,248.42,S019,Inactive,2024-04-28 14:00:00
+U1391,2024-10-02,East,Electronics,62.45,31,Free,Salem,user391@example.com,user_391,680.08,S011,Inactive,2025-02-02 03:00:00
+U1200,2024-01-29,South,Groceries,495.81,27,Premium,Greenville,user200@example.com,user_200,914.84,S001,Pending,2024-10-17 18:00:00
+U1373,11/29/2024,North,Groceries,53.65,57,Free,Georgetown,user373@example.com,user_373,675.17,S007,Pending,2024-12-12 22:00:00
+U1375,2024-01-13,West,Sports,418.55,54,Free,Riverside,user375@example.com,user_375,138.61,S019,Inactive,2024-02-26 22:00:00
+U1011,2025-01-21,North,Home & Kitchen,326.69,44,Free,Salem,user11@example.com,user_11,592.43,S008,Inactive,2024-01-04 02:00:00
+U1314,02/01/2024,South,Groceries,33.86,55,Basic,Springfield,user314@example.com,user_314,223.74,S017,Active,2024-02-21 23:00:00
+U1091,2025-01-29,South,Electronics,339.8,31,Basic,Clinton,user91@example.com,user_91,246.78,S016,Inactive,2024-07-07 21:00:00
+U1167,2024-12-21,East,Home & Kitchen,97.61,69,Basic,Springfield,user167@example.com,user_167,203.18,S013,,2024-07-28 21:00:00
+U1114,09/12/2024,South,Groceries,49.57,41,Free,Salem,user114@example.com,user_114,60.04,S016,,2024-05-26 17:00:00
+U1191,04/28/2024,North,Home & Kitchen,47.03,22,Free,Franklin,user191@example.com,user_191,71.66,S005,Inactive,2024-05-29 08:00:00
+U1140,2024-11-04,West,Clothing,295.85,58,Free,Greenville,user140@example.com,user_140,957.45,S001,Inactive,2024-04-07 23:00:00
+U1350,12/27/2024,West,Groceries,251.04,31,Basic,Salem,user350@example.com,user_350,183.26,S012,Active,2025-02-02 06:00:00
+U1411,03/24/2024,South,Clothing,300.98,25,Premium,Clinton,user411@example.com,user_411,75.45,S019,,2024-02-15 00:00:00
+U1332,2024-12-01,North,Electronics,474.56,23,Premium,Madison,user332@example.com,user_332,,S011,,2024-07-29 09:00:00
+U1114,09/12/2024,South,Groceries,49.57,41,Free,Salem,user114@example.com,user_114,60.04,S016,,2024-05-26 17:00:00
+U1041,09/10/2024,East,Home & Kitchen,399.93,37,Basic,Clinton,user41@example.com,user_41,248.94,S014,,2024-10-11 07:00:00
+U1248,2024-10-10,East,Clothing,148.84,38,Free,Franklin,user248@example.com,user_248,508.85,S011,Active,2025-01-24 11:00:00
+U1109,03/23/2024,East,Groceries,261.85,34,Premium,Clinton,user109@example.com,user_109,628.77,S020,Active,2024-09-14 20:00:00
+U1328,2024-07-16,South,Sports,54.3,36,Basic,Riverside,user328@example.com,user_328,927.09,S001,Active,2024-05-06 16:00:00
+U1445,01/27/2025,West,Groceries,412.48,47,Basic,Georgetown,user445@example.com,user_445,919.36,S004,Inactive,2024-12-23 08:00:00
+U1257,08/16/2024,West,Groceries,100.29,48,Premium,Riverside,user257@example.com,user_257,17.26,S003,Inactive,2024-12-09 20:00:00
+U1061,11/22/2024,South,Groceries,449.96,45,Basic,Franklin,user61@example.com,user_61,306.16,S014,Pending,2024-08-21 09:00:00
+U1446,2024-09-16,North,Home & Kitchen,407.65,63,Basic,Salem,user446@example.com,user_446,191.9,S015,Inactive,2024-01-02 12:00:00
+U1364,2024-03-09,West,Books,,62,Basic,Georgetown,user364@example.com,user_364,807.88,S015,,2024-11-15 05:00:00
+U1286,2024-04-22,North,Home & Kitchen,260.67,16,Free,Clinton,user286@example.com,user_286,822.86,S003,Inactive,2024-08-31 10:00:00
+U1406,01/22/2024,East,Home & Kitchen,96.33,51,Free,Springfield,user406@example.com,user_406,453.94,S006,Pending,2024-03-03 00:00:00
+U1010,2024-10-17,West,Books,39.26,64,Free,Franklin,user10@example.com,user_10,272.41,S020,,2024-04-18 17:00:00
+U1342,2024-05-22,West,Clothing,328.37,18,Premium,Springfield,user342@example.com,user_342,921.18,S002,Active,2024-08-01 05:00:00
+U1303,11/14/2024,East,Groceries,,19,Free,Springfield,user303@example.com,user_303,718.04,S001,Inactive,2024-02-16 04:00:00
+U1264,2024-02-05,North,Home & Kitchen,310.09,35,Free,Franklin,user264@example.com,user_264,434.02,S001,Pending,2024-05-06 07:00:00
+U1069,10/05/2024,West,Home & Kitchen,484.26,70,Basic,Riverside,user69@example.com,user_69,31.14,S011,Inactive,2024-03-05 18:00:00
+U1310,04/05/2024,North,Books,434.49,54,Free,Franklin,user310@example.com,user_310,270.72,S012,,2024-01-01 20:00:00
+U1423,2024-02-24,North,Home & Kitchen,259.55,42,Premium,Madison,user423@example.com,user_423,764.65,S010,Active,2024-02-12 10:00:00
+U1124,2025-01-14,East,Electronics,267.87,56,Premium,Springfield,user124@example.com,user_124,684.38,S005,Active,2024-10-08 05:00:00
+U1218,02/03/2024,South,Clothing,264.52,52,Premium,Franklin,user218@example.com,user_218,257.0,S015,Active,2024-07-03 22:00:00
+U1291,08/29/2024,North,Clothing,109.21,60,Basic,Madison,user291@example.com,user_291,139.83,S019,Inactive,2024-02-21 23:00:00
+U1083,04/23/2024,East,Electronics,61.44,48,Premium,Madison,user83@example.com,user_83,156.21,S004,Inactive,2024-05-11 06:00:00
+U1242,03/01/2024,West,Electronics,22.74,51,Premium,Riverside,user242@example.com,user_242,891.21,S018,Inactive,2024-12-01 21:00:00
+U1119,2024-10-22,West,Sports,264.5,62,Free,Georgetown,user119@example.com,user_119,,S004,Inactive,2024-01-10 14:00:00
+U1133,2024-10-23,West,Home & Kitchen,36.56,19,Premium,Salem,,user_133,768.17,S014,Pending,2024-07-14 14:00:00
+U1442,2024-10-28,South,Sports,474.61,36,Free,Georgetown,user442@example.com,user_442,786.43,S005,Pending,2024-08-31 22:00:00
+U1203,06/21/2024,North,Clothing,367.51,43,Free,Salem,user203@example.com,user_203,696.62,S020,Pending,2024-04-24 21:00:00
+U1173,2024-02-08,South,Sports,348.88,39,Basic,Salem,user173@example.com,,735.4,S015,Pending,2024-02-02 17:00:00
+U1479,12/04/2024,South,Home & Kitchen,351.89,35,Free,Madison,user479@example.com,,532.51,S005,,2024-08-16 20:00:00
+U1262,2024-07-20,North,Clothing,452.26,38,Premium,Georgetown,user262@example.com,user_262,192.15,S020,Pending,2024-04-09 03:00:00
+U1214,07/22/2024,North,Sports,437.37,66,Free,Georgetown,user214@example.com,user_214,586.85,S004,Active,2024-10-15 03:00:00
+U1043,08/20/2024,North,Groceries,362.04,36,Premium,Franklin,user43@example.com,user_43,593.69,S017,Pending,2024-02-21 06:00:00
+U1236,2024-02-21,West,Groceries,340.0,43,Free,Riverside,user236@example.com,user_236,,S005,Inactive,2024-06-17 11:00:00
+U1195,2024-03-03,West,Clothing,412.72,39,Free,Riverside,user195@example.com,user_195,31.58,S003,Inactive,2024-11-26 14:00:00
+U1367,10/03/2024,West,Groceries,10.34,45,Free,Salem,user367@example.com,user_367,977.98,S010,Pending,2024-03-26 01:00:00
+U1121,09/26/2024,North,Clothing,268.9,50,Basic,Clinton,user121@example.com,user_121,562.51,S008,Pending,2025-01-29 09:00:00
+U1021,2025-01-29,North,Clothing,278.08,43,Free,Springfield,user21@example.com,user_21,157.56,S002,Pending,2024-10-25 17:00:00
+U1458,2024-12-14,South,Groceries,475.85,69,Basic,Franklin,,user_458,485.06,S009,Active,2024-06-17 01:00:00
+U1126,01/19/2024,South,Clothing,481.26,34,Premium,Springfield,user126@example.com,user_126,341.69,S015,,2024-03-09 16:00:00
+U1377,07/14/2024,North,Electronics,407.34,27,Basic,Riverside,user377@example.com,user_377,186.66,S016,Active,2024-03-14 17:00:00
+U1114,09/12/2024,South,Groceries,49.57,41,Free,Salem,user114@example.com,user_114,60.04,S016,,2024-05-26 17:00:00
+U1437,04/19/2024,North,Books,309.14,65,Basic,Springfield,user437@example.com,user_437,158.97,S010,,2024-07-29 10:00:00
+U1072,2024-04-23,North,Home & Kitchen,20.42,46,Basic,Georgetown,user72@example.com,user_72,82.76,S003,Pending,2024-11-07 04:00:00
+U1457,03/27/2024,East,Sports,7.04,65,Free,Franklin,user457@example.com,user_457,680.14,S011,Active,2024-05-25 21:00:00
+U1360,2024-02-05,South,Groceries,331.78,21,Premium,Franklin,user360@example.com,user_360,10.18,S005,Inactive,2024-08-19 17:00:00
+U1403,2024-10-04,South,Groceries,370.17,17,Basic,Greenville,user403@example.com,user_403,947.97,S011,,2024-10-23 10:00:00
+U1295,05/26/2024,East,Clothing,464.64,42,Free,Georgetown,user295@example.com,user_295,235.94,S011,Pending,2024-12-29 08:00:00
+U1443,07/07/2024,West,Books,304.88,69,Free,Springfield,user443@example.com,user_443,557.2,S010,Pending,2024-12-16 03:00:00
+U1322,05/28/2024,East,Clothing,240.55,63,Premium,Georgetown,user322@example.com,user_322,700.89,S005,,2024-10-13 06:00:00
+U1138,01/25/2024,South,Sports,211.08,25,Basic,Georgetown,user138@example.com,user_138,233.09,S005,,2024-01-30 17:00:00
+U1388,2024-12-20,East,Clothing,263.93,42,Premium,Franklin,user388@example.com,user_388,504.89,S003,Pending,2024-06-27 13:00:00
+U1381,01/24/2025,East,Clothing,483.92,58,Premium,Clinton,user381@example.com,user_381,365.67,S003,,2025-01-11 06:00:00
+U1158,2024-04-02,South,Books,399.85,69,Free,Riverside,user158@example.com,user_158,504.31,S010,Inactive,2024-05-09 21:00:00
+U1380,12/18/2024,West,Sports,495.84,37,Free,Clinton,user380@example.com,user_380,99.76,S018,Pending,2024-02-11 14:00:00
+U1499,03/29/2024,South,Home & Kitchen,394.72,57,Free,Riverside,user499@example.com,user_499,450.73,S004,Pending,2024-07-11 19:00:00
+U1432,06/25/2024,South,Groceries,125.89,31,Free,Clinton,user432@example.com,user_432,311.86,S011,Inactive,2024-01-11 17:00:00
+U1163,2024-02-25,East,Sports,84.27,51,Basic,Salem,user163@example.com,user_163,644.07,S014,,2024-01-15 23:00:00
+U1280,2024-03-23,East,Sports,172.53,51,Free,Springfield,user280@example.com,user_280,,S003,Inactive,2024-08-29 19:00:00
+U1450,12/10/2024,West,Clothing,99.32,68,Basic,Clinton,user450@example.com,user_450,214.54,S007,Pending,2025-01-07 21:00:00
+U1082,01/11/2024,East,Sports,346.36,39,Premium,Georgetown,user82@example.com,user_82,528.72,S013,Pending,2025-01-16 10:00:00
+U1221,2024-11-27,West,Clothing,403.52,35,Free,Clinton,user221@example.com,user_221,259.48,S015,Pending,2024-12-12 16:00:00
+U1178,03/11/2024,East,Books,75.71,49,Free,Springfield,user178@example.com,user_178,220.92,S005,,2024-11-11 21:00:00
+U1325,2024-07-10,West,Electronics,125.31,55,Premium,Clinton,,user_325,455.56,S001,Pending,2024-04-17 23:00:00
+U1137,04/29/2024,North,Clothing,75.91,58,Free,Greenville,user137@example.com,user_137,595.75,S006,,2024-10-11 15:00:00
+U1447,04/12/2024,North,Sports,83.12,49,Free,Franklin,user447@example.com,user_447,326.21,S016,Inactive,2024-05-13 05:00:00
+U1415,2024-01-30,North,Home & Kitchen,72.07,26,Premium,Clinton,user415@example.com,user_415,58.23,S010,Active,2024-09-20 06:00:00
+U1204,2024-10-28,South,Groceries,150.79,27,Free,Springfield,user204@example.com,user_204,994.34,S019,Active,2024-04-03 19:00:00
+U1387,2024-01-21,West,Books,389.94,17,Basic,Riverside,,user_387,655.24,S010,,2024-12-21 15:00:00
+U1037,2024-05-02,South,Books,474.14,45,Free,Clinton,user37@example.com,user_37,750.45,S004,Inactive,2024-06-08 03:00:00
+U1482,11/17/2024,West,Electronics,470.96,44,Basic,Springfield,user482@example.com,user_482,989.11,S019,Inactive,2024-06-28 09:00:00
+U1017,2024-10-18,West,Sports,330.4,52,Free,Madison,user17@example.com,user_17,246.3,S013,Inactive,2024-12-09 20:00:00
+U1183,2024-06-07,East,Clothing,198.41,56,Free,Riverside,user183@example.com,user_183,246.25,S008,Active,2024-08-10 03:00:00
+U1112,09/04/2024,East,Groceries,159.73,61,Basic,Madison,user112@example.com,user_112,566.03,S011,Inactive,2024-08-26 03:00:00
+U1326,2024-10-02,East,Sports,133.04,46,Free,Franklin,user326@example.com,user_326,906.98,S017,Active,2024-05-10 05:00:00
+U1274,2024-11-03,East,Sports,135.94,62,Free,Madison,user274@example.com,user_274,384.43,S005,Active,2024-01-09 06:00:00
+U1135,06/01/2024,South,Sports,118.68,45,Basic,Franklin,user135@example.com,user_135,121.72,S014,Active,2024-05-03 06:00:00
+U1402,02/11/2024,East,Groceries,43.09,26,Basic,Riverside,user402@example.com,user_402,525.48,S001,Pending,2024-08-01 21:00:00
+U1277,05/10/2024,East,Electronics,439.0,42,Basic,Greenville,,user_277,,S017,Active,2024-09-23 00:00:00
+U1337,10/12/2024,West,Clothing,202.03,35,Basic,Salem,user337@example.com,user_337,693.05,S005,,2024-11-26 14:00:00
+U1208,2024-10-07,North,Sports,447.15,61,Premium,Georgetown,user208@example.com,user_208,165.53,S004,Pending,2024-04-15 06:00:00
+U1459,12/01/2024,North,Books,453.9,67,Free,Franklin,user459@example.com,user_459,329.94,S002,Active,2024-10-07 19:00:00
+U1062,04/11/2024,South,Electronics,288.1,52,Basic,Clinton,,user_62,18.02,S002,,2024-05-26 07:00:00
+U1253,2024-09-20,South,Electronics,280.52,24,Premium,Clinton,,user_253,49.54,S011,Active,2025-01-31 20:00:00
+U1079,05/19/2024,South,Home & Kitchen,210.02,29,Free,Riverside,user79@example.com,user_79,597.2,S017,Pending,2024-01-24 07:00:00
+U1289,01/26/2025,South,Clothing,68.48,49,Basic,Salem,user289@example.com,user_289,861.8,S006,,2024-03-02 22:00:00
+U1249,10/14/2024,South,Books,421.49,34,Basic,Springfield,user249@example.com,,673.55,S007,Pending,2025-01-19 05:00:00
+U1384,03/13/2024,West,Home & Kitchen,311.09,31,Free,Franklin,,user_384,822.53,S004,,2024-11-08 05:00:00
+U1253,2024-09-20,South,Electronics,280.52,24,Premium,Clinton,,user_253,49.54,S011,Active,2025-01-31 20:00:00
+U1202,2025-01-02,North,Electronics,,53,Free,Franklin,user202@example.com,user_202,960.95,S012,,2024-10-27 03:00:00
+U1168,09/08/2024,South,Home & Kitchen,284.87,66,Premium,Clinton,,user_168,782.93,S019,,2024-10-08 16:00:00
+U1098,01/23/2024,North,Groceries,181.76,20,Basic,Greenville,user98@example.com,user_98,737.84,S011,Inactive,2024-01-23 11:00:00
+U1390,2024-09-11,East,Books,31.74,39,Basic,Greenville,user390@example.com,user_390,760.82,S002,Active,2025-01-14 01:00:00
+U1363,12/30/2024,South,Home & Kitchen,109.55,27,Basic,Franklin,user363@example.com,user_363,841.56,S005,Pending,2024-12-09 04:00:00
+U1213,2024-03-29,East,Clothing,214.57,59,Basic,Greenville,user213@example.com,user_213,265.31,S003,Active,2024-07-17 17:00:00
+U1421,2024-01-15,East,Books,474.65,38,Basic,Franklin,user421@example.com,user_421,509.86,S003,Active,2024-10-23 00:00:00
+U1026,04/07/2024,West,Books,262.36,67,Free,Greenville,user26@example.com,user_26,336.9,S011,Active,2025-01-03 09:00:00
+U1234,2024-04-11,North,Sports,182.17,42,Basic,Franklin,,user_234,933.79,S011,Inactive,2024-01-02 00:00:00
+U1252,2024-05-08,South,Clothing,353.79,57,Basic,Greenville,user252@example.com,user_252,185.65,S003,Inactive,2024-03-29 23:00:00
+U1341,01/26/2025,West,Home & Kitchen,251.83,67,Premium,Salem,user341@example.com,user_341,416.05,S003,Active,2024-05-05 17:00:00
+U1245,01/01/2025,West,Home & Kitchen,318.45,59,Free,Riverside,user245@example.com,user_245,956.63,S005,,2024-01-03 16:00:00
+U1270,07/12/2024,West,Sports,486.47,30,Free,Georgetown,user270@example.com,user_270,487.29,S020,Active,2024-09-13 04:00:00
+U1051,07/28/2024,North,Books,84.61,42,Free,Salem,user51@example.com,user_51,554.6,S015,Active,2024-06-10 08:00:00
+U1046,2024-06-04,East,Electronics,211.01,54,Free,Greenville,user46@example.com,user_46,304.38,S019,,2024-06-05 18:00:00
+U1474,06/23/2024,West,Sports,79.83,60,Free,Riverside,user474@example.com,user_474,462.56,S004,Active,2025-02-04 19:00:00
+U1142,2024-08-26,South,Groceries,188.5,42,Premium,Greenville,user142@example.com,,588.19,S014,Pending,2024-03-19 06:00:00
+U1306,2025-01-11,East,Home & Kitchen,480.8,36,Premium,Springfield,user306@example.com,user_306,486.42,S010,Inactive,2024-07-03 01:00:00
+U1087,2024-09-15,West,Clothing,495.54,49,Free,Franklin,user87@example.com,user_87,776.72,S020,Active,2024-11-19 20:00:00
+U1255,2024-04-23,North,Groceries,113.13,64,Free,Salem,user255@example.com,user_255,18.72,S012,,2024-05-03 20:00:00
+U1344,2024-03-09,North,Groceries,264.7,60,Premium,Springfield,user344@example.com,user_344,987.32,S016,Pending,2024-08-06 19:00:00
+U1068,2025-01-07,South,Books,247.23,42,Basic,Springfield,user68@example.com,user_68,243.75,S012,Active,2024-12-17 11:00:00
+U1393,2024-07-10,South,Books,182.5,33,Premium,Madison,user393@example.com,user_393,145.14,S015,,2024-08-02 05:00:00
+U1057,2024-11-29,South,Electronics,482.85,37,Premium,Salem,user57@example.com,user_57,,S005,,2024-12-01 04:00:00
+U1045,05/25/2024,South,Home & Kitchen,482.92,32,Basic,Riverside,user45@example.com,user_45,633.15,S002,Inactive,2024-03-17 18:00:00
+U1146,10/09/2024,West,Electronics,141.0,34,Premium,Georgetown,user146@example.com,user_146,105.35,S005,Inactive,2024-04-08 19:00:00
+U1258,2025-01-31,South,Electronics,415.23,63,Basic,Riverside,user258@example.com,user_258,338.4,S003,Active,2024-01-28 05:00:00
+U1102,12/04/2024,North,Home & Kitchen,215.93,60,Basic,Madison,user102@example.com,user_102,618.7,S014,Pending,2024-11-23 01:00:00
+U1416,2025-01-27,West,Sports,274.14,36,Free,Clinton,user416@example.com,user_416,539.08,S012,Inactive,2024-01-07 04:00:00
+U1362,2024-07-25,North,Electronics,276.7,19,Premium,Madison,user362@example.com,user_362,,S014,,2024-11-16 10:00:00
+U1185,01/18/2025,West,Electronics,217.52,49,Premium,Clinton,user185@example.com,user_185,460.65,S012,Active,2024-09-12 18:00:00
+U1496,2024-01-22,South,Sports,486.18,16,Premium,Salem,user496@example.com,user_496,999.25,S007,Pending,2024-01-24 05:00:00
+U1226,10/26/2024,South,Electronics,433.86,53,Free,Riverside,user226@example.com,user_226,683.89,S017,Pending,2024-07-30 01:00:00
+U1149,12/20/2024,North,Electronics,343.79,33,Free,Springfield,user149@example.com,user_149,,S007,Inactive,2025-01-20 22:00:00
+U1073,2024-02-03,North,Sports,276.44,36,Basic,Clinton,user73@example.com,user_73,704.76,S018,Inactive,2024-08-08 14:00:00
+U1059,04/30/2024,East,Books,489.28,64,Free,Riverside,user59@example.com,user_59,55.53,S002,Pending,2024-07-02 11:00:00
+U1016,2024-04-21,West,Books,29.82,46,Free,Franklin,user16@example.com,user_16,77.84,S003,Inactive,2024-07-25 03:00:00
+U1484,2024-08-05,South,Clothing,187.8,49,Basic,Georgetown,user484@example.com,user_484,996.55,S016,,2024-03-24 04:00:00
+U1413,01/13/2025,East,Electronics,81.24,35,Free,Salem,user413@example.com,user_413,187.58,S008,Active,2024-03-02 08:00:00
+U1371,01/10/2025,West,Books,410.67,19,Premium,Salem,user371@example.com,user_371,754.9,S018,Inactive,2024-07-13 21:00:00
+U1469,01/27/2024,West,Electronics,357.98,42,Basic,Clinton,,user_469,727.37,S016,Inactive,2024-12-31 01:00:00
+U1004,01/30/2025,West,Clothing,193.16,45,Free,Madison,user4@example.com,user_4,704.8,S003,Inactive,2024-09-30 23:00:00
+U1095,01/23/2025,South,Sports,,21,Premium,Clinton,user95@example.com,user_95,612.79,S014,Active,2025-02-01 09:00:00
+U1205,2024-06-11,West,Home & Kitchen,373.94,31,Basic,Madison,user205@example.com,user_205,711.88,S011,,2024-01-06 08:00:00
+U1106,12/07/2024,West,Sports,446.21,70,Premium,Franklin,user106@example.com,user_106,208.97,S005,Inactive,2024-09-09 00:00:00
+U1193,08/19/2024,South,Groceries,49.76,67,Free,Clinton,user193@example.com,user_193,,S011,Inactive,2024-02-16 22:00:00
+U1296,11/05/2024,North,Home & Kitchen,469.69,63,Free,Salem,user296@example.com,user_296,,S008,Pending,2025-01-15 22:00:00
+U1340,2024-06-20,East,Clothing,357.46,42,Basic,Clinton,user340@example.com,user_340,188.89,S005,Inactive,2024-01-02 19:00:00
+U1420,2024-01-17,South,Electronics,26.42,35,Free,Springfield,user420@example.com,user_420,213.35,S007,Inactive,2024-12-09 11:00:00
+U1110,2024-03-27,East,Books,451.49,37,Free,Springfield,user110@example.com,,,S019,Pending,2024-11-29 06:00:00
+U1471,2025-01-06,South,Groceries,256.28,53,Free,Madison,user471@example.com,user_471,473.78,S010,,2024-08-01 21:00:00
+U1118,06/02/2024,West,Groceries,59.25,42,Free,Clinton,user118@example.com,user_118,36.38,S016,Pending,2024-12-01 18:00:00
+U1463,2024-08-11,South,Groceries,68.26,35,Premium,Georgetown,user463@example.com,user_463,54.64,S004,,2024-07-30 03:00:00
+U1488,2024-08-31,East,Sports,382.03,58,Basic,Franklin,user488@example.com,user_488,667.86,S014,,2024-04-29 12:00:00
+U1113,05/16/2024,East,Clothing,148.65,40,Free,Georgetown,user113@example.com,user_113,334.16,S019,Pending,2024-04-07 05:00:00
+U1470,2024-09-27,South,Sports,36.44,57,Basic,Salem,user470@example.com,user_470,453.84,S014,Active,2024-03-23 09:00:00
+U1022,03/16/2024,East,Electronics,450.0,66,Premium,Madison,user22@example.com,user_22,782.32,S014,Inactive,2024-05-01 05:00:00
+U1359,2024-06-24,East,Books,370.99,61,Free,Salem,user359@example.com,user_359,106.68,S015,Inactive,2024-06-06 12:00:00
+U1054,2024-08-24,East,Home & Kitchen,149.47,61,Basic,Georgetown,user54@example.com,user_54,555.75,S013,Inactive,2024-11-02 16:00:00
+U1084,2024-03-29,West,Clothing,315.83,45,Free,Salem,user84@example.com,user_84,986.67,S011,Pending,2024-03-18 14:00:00
+U1357,12/24/2024,North,Home & Kitchen,37.36,23,Basic,Salem,user357@example.com,user_357,608.4,S005,Active,2024-07-26 22:00:00
+U1215,05/26/2024,South,Groceries,245.36,54,Basic,Springfield,user215@example.com,user_215,684.0,S013,Active,2024-07-21 10:00:00
+U1154,06/15/2024,West,Groceries,390.69,62,Free,Greenville,user154@example.com,user_154,147.45,S010,Pending,2024-09-09 04:00:00
+U1425,2024-04-01,South,Books,221.84,58,Free,Riverside,user425@example.com,user_425,977.8,S006,Active,2024-07-05 06:00:00
+U1290,09/22/2024,North,Books,,59,Premium,Georgetown,user290@example.com,user_290,267.1,S018,Pending,2024-05-01 08:00:00
+U1170,05/14/2024,West,Home & Kitchen,63.11,67,Premium,Greenville,user170@example.com,user_170,713.65,S014,Inactive,2024-11-11 04:00:00
+U1240,2025-01-07,South,Groceries,322.5,25,Free,Springfield,,user_240,474.6,S016,Inactive,2024-02-08 15:00:00
+U1244,11/20/2024,North,Books,448.95,47,Premium,Georgetown,user244@example.com,user_244,930.91,S013,Inactive,2024-08-22 06:00:00
+U1097,05/29/2024,West,Sports,287.48,27,Free,Riverside,user97@example.com,user_97,548.64,S017,Active,2024-07-18 15:00:00
+U1419,2024-04-23,East,Books,67.05,24,Premium,Georgetown,user419@example.com,user_419,776.95,S014,Active,2024-04-10 03:00:00
+U1036,2024-05-09,South,Electronics,30.78,38,Premium,Riverside,user36@example.com,user_36,950.12,S007,Active,2024-11-14 04:00:00
+U1104,12/13/2024,North,Groceries,43.06,24,Free,Madison,user104@example.com,user_104,122.31,S006,,2024-09-22 12:00:00
+U1103,02/08/2024,North,Sports,341.31,17,Premium,Salem,,user_103,372.67,S013,Active,2024-11-05 04:00:00
+U1441,2024-05-01,North,Groceries,369.93,67,Free,Greenville,user441@example.com,user_441,221.97,S009,,2024-07-28 08:00:00
+U1177,04/25/2024,West,Electronics,409.47,43,Free,Franklin,user177@example.com,user_177,807.9,S004,Pending,2024-07-07 09:00:00
+U1444,2024-09-30,South,Home & Kitchen,,41,Basic,Clinton,user444@example.com,user_444,218.28,S006,,2024-11-19 10:00:00
+U1418,2024-02-09,East,Electronics,159.23,39,Premium,Salem,user418@example.com,user_418,348.62,S010,Active,2025-01-16 03:00:00
+U1383,01/29/2024,West,Home & Kitchen,404.52,58,Free,Salem,user383@example.com,user_383,743.64,S008,Active,2024-01-19 23:00:00
+U1260,2024-10-26,West,Groceries,57.54,66,Free,Clinton,user260@example.com,user_260,387.6,S001,,2024-03-21 17:00:00
+U1430,06/08/2024,South,Electronics,247.82,51,Free,Salem,user430@example.com,user_430,397.47,S016,,2024-11-11 21:00:00
+U1030,04/09/2024,South,Home & Kitchen,329.75,16,Premium,Georgetown,user30@example.com,user_30,469.9,S018,Inactive,2024-03-03 14:00:00
+U1323,09/06/2024,East,Sports,369.16,31,Premium,Riverside,user323@example.com,user_323,580.26,S004,,2024-08-04 11:00:00
+U1397,2024-05-31,West,Electronics,155.89,61,Basic,Springfield,user397@example.com,user_397,706.1,S006,Pending,2024-11-16 14:00:00
+U1472,11/30/2024,South,Clothing,144.82,63,Premium,Salem,user472@example.com,user_472,109.89,S014,,2024-06-04 07:00:00
+U1005,2024-05-05,South,Home & Kitchen,463.07,60,Free,Greenville,user5@example.com,user_5,236.76,S002,Pending,2024-07-24 08:00:00
+U1189,05/29/2024,East,Home & Kitchen,486.07,65,Premium,Greenville,user189@example.com,user_189,,S018,Pending,2024-11-21 22:00:00
+U1150,2024-07-22,North,Clothing,285.51,70,Basic,Madison,user150@example.com,user_150,692.42,S003,Pending,2024-01-28 03:00:00
+U1176,2024-07-09,West,Home & Kitchen,364.36,64,Premium,Georgetown,user176@example.com,user_176,,S016,Active,2024-03-08 18:00:00
+U1309,10/12/2024,South,Books,346.18,38,Free,Franklin,user309@example.com,user_309,563.43,S018,,2024-04-07 18:00:00
+U1159,03/19/2024,South,Electronics,300.98,53,Basic,Georgetown,user159@example.com,user_159,896.55,S018,Active,2024-02-25 07:00:00
+U1241,2024-06-13,North,Groceries,115.24,57,Basic,Georgetown,user241@example.com,user_241,577.3,S003,,2024-08-16 10:00:00
+U1076,06/08/2024,West,Sports,81.59,46,Premium,Riverside,user76@example.com,user_76,285.78,S008,,2024-10-14 19:00:00
+U1075,2024-08-09,North,Clothing,295.3,51,Free,Madison,user75@example.com,user_75,941.72,S014,Active,2024-05-27 19:00:00
+U1278,2024-07-11,North,Home & Kitchen,81.62,57,Free,Clinton,user278@example.com,user_278,615.76,S013,Inactive,2024-07-30 17:00:00
+U1299,10/07/2024,East,Books,297.46,45,Free,Georgetown,user299@example.com,user_299,353.7,S018,Inactive,2024-02-15 14:00:00
+U1331,08/06/2024,North,Home & Kitchen,107.34,24,Free,Greenville,user331@example.com,user_331,528.57,S005,,2025-01-29 04:00:00
+U1184,2024-08-20,North,Books,371.63,23,Premium,Franklin,user184@example.com,user_184,527.78,S009,Inactive,2024-07-09 04:00:00
+U1263,2024-04-02,South,Books,148.87,20,Basic,Riverside,user263@example.com,user_263,363.57,S008,Active,2024-05-25 19:00:00
+U1224,2024-07-17,East,Groceries,115.07,50,Free,Salem,user224@example.com,user_224,846.97,S018,Inactive,2024-05-30 03:00:00
+U1300,06/06/2024,South,Groceries,10.23,49,Premium,Madison,user300@example.com,user_300,497.01,S016,Pending,2024-01-05 13:00:00
+U1480,04/15/2024,North,Books,102.66,35,Premium,Springfield,user480@example.com,user_480,881.08,S017,Pending,2024-04-19 02:00:00
+U1395,08/30/2024,North,Electronics,369.41,31,Premium,Madison,user395@example.com,user_395,946.79,S019,Active,2024-08-01 01:00:00
+U1031,03/09/2024,North,Home & Kitchen,361.04,48,Basic,Salem,user31@example.com,user_31,266.6,S008,Pending,2025-01-27 16:00:00
+U1466,2024-02-29,East,Books,347.44,58,Free,Salem,user466@example.com,user_466,693.76,S013,Pending,2024-02-14 04:00:00
+U1071,2024-03-08,North,Clothing,12.81,32,Premium,Franklin,user71@example.com,user_71,481.48,S012,Active,2024-08-19 16:00:00
+U1125,07/27/2024,South,Books,482.14,36,Basic,Springfield,user125@example.com,user_125,539.8,S002,Inactive,2024-08-01 05:00:00
+U1096,05/01/2024,West,Electronics,321.28,55,Basic,Riverside,user96@example.com,user_96,26.27,S017,Inactive,2025-01-02 04:00:00
+U1228,01/03/2024,North,Clothing,88.46,64,Premium,Salem,user228@example.com,user_228,439.37,S014,,2024-08-07 15:00:00
+U1365,08/20/2024,South,Home & Kitchen,96.97,54,Premium,Salem,user365@example.com,user_365,416.73,S018,Pending,2024-01-18 01:00:00
+U1247,2024-12-20,North,Home & Kitchen,485.39,44,Premium,Franklin,user247@example.com,user_247,305.92,S018,Pending,2024-12-30 23:00:00
+U1460,2024-07-14,South,Groceries,482.7,41,Premium,Springfield,user460@example.com,user_460,292.09,S005,Active,2024-06-01 15:00:00
+U1182,2024-01-09,West,Groceries,461.68,66,Basic,Clinton,user182@example.com,user_182,704.79,S003,Inactive,2024-05-22 02:00:00
+U1008,2024-12-14,North,Books,150.28,26,Basic,Springfield,user8@example.com,user_8,505.58,S006,Active,2024-11-16 09:00:00
+U1261,2024-04-22,South,Sports,318.85,35,Free,Madison,user261@example.com,,149.96,S002,Active,2024-10-20 19:00:00
+U1327,01/31/2024,East,Books,31.28,57,Premium,Riverside,user327@example.com,user_327,663.5,S004,Active,2024-05-29 20:00:00
+U1065,02/28/2024,West,Clothing,116.68,59,Free,Georgetown,user65@example.com,user_65,792.78,S001,Pending,2024-10-01 03:00:00
+U1294,2024-07-29,North,Books,103.48,52,Free,Franklin,user294@example.com,user_294,515.34,S015,Active,2024-07-14 19:00:00
+U1454,09/28/2024,East,Groceries,26.86,24,Basic,Clinton,user454@example.com,user_454,878.17,S020,Pending,2024-09-21 10:00:00
+U1428,12/13/2024,East,Groceries,52.69,20,Free,Salem,user428@example.com,user_428,495.35,S009,Pending,2024-10-03 17:00:00
+U1035,2024-10-15,West,Books,434.09,27,Premium,Clinton,user35@example.com,user_35,763.62,S013,Pending,2025-01-20 13:00:00
+U1305,02/06/2024,East,Clothing,128.79,40,Premium,Riverside,user305@example.com,user_305,975.22,S008,Active,2024-04-11 14:00:00
+U1007,2024-07-04,East,Sports,379.11,23,Premium,Franklin,user7@example.com,user_7,387.8,S015,Pending,2024-10-10 00:00:00
+U1386,2024-10-06,North,Clothing,298.58,37,Premium,Riverside,user386@example.com,user_386,376.23,S006,,2024-05-04 18:00:00
+U1422,2024-09-27,East,Groceries,378.24,16,Free,Riverside,user422@example.com,user_422,479.97,S019,Inactive,2024-08-13 21:00:00
+U1156,01/04/2024,North,Sports,431.79,44,Basic,Georgetown,user156@example.com,user_156,144.76,S011,Inactive,2024-09-02 10:00:00
+U1301,2024-05-29,West,Sports,208.81,51,Basic,Georgetown,user301@example.com,user_301,830.14,S008,Pending,2024-02-10 13:00:00
+U1496,2024-01-22,South,Sports,486.18,16,Premium,Salem,user496@example.com,user_496,999.25,S007,Pending,2024-01-24 05:00:00
+U1468,01/29/2025,East,Home & Kitchen,62.65,25,Free,Salem,user468@example.com,user_468,589.37,S007,Pending,2024-10-18 12:00:00
+U1464,08/25/2024,North,Groceries,385.48,17,Premium,Salem,user464@example.com,user_464,92.46,S010,Pending,2024-10-27 23:00:00
+U1014,04/07/2024,East,Home & Kitchen,234.0,20,Basic,Riverside,user14@example.com,user_14,969.31,S008,Inactive,2024-07-27 15:00:00
+U1346,2024-08-26,East,Sports,209.95,37,Basic,Greenville,,user_346,792.29,S010,Pending,2024-09-16 17:00:00
+U1334,02/03/2025,East,Sports,237.04,57,Basic,Franklin,user334@example.com,user_334,201.33,S002,,2025-01-26 00:00:00
+U1174,2024-07-22,South,Clothing,164.82,34,Basic,Franklin,user174@example.com,user_174,685.73,S002,Active,2024-02-20 20:00:00
+U1052,2024-06-14,South,Sports,5.57,50,Basic,Georgetown,user52@example.com,user_52,503.51,S015,Active,2024-04-14 08:00:00
+U1366,10/17/2024,North,Electronics,481.06,21,Premium,Clinton,user366@example.com,user_366,97.56,S016,Active,2024-12-16 20:00:00
+U1410,2024-07-22,South,Groceries,11.03,38,Basic,Clinton,user410@example.com,user_410,730.57,S015,,2024-08-14 09:00:00
+U1220,2024-05-12,North,Electronics,85.64,52,Premium,Greenville,user220@example.com,user_220,415.41,S001,Active,2024-08-30 04:00:00
+U1238,2025-01-06,East,Electronics,297.42,67,Free,Salem,user238@example.com,user_238,38.53,S005,,2024-09-06 03:00:00
+U1197,04/05/2024,North,Home & Kitchen,22.15,55,Free,Greenville,user197@example.com,user_197,484.24,S003,Pending,2024-07-15 04:00:00
+U1489,2024-06-22,South,Books,48.82,26,Free,Springfield,user489@example.com,user_489,565.43,S004,Active,2024-04-08 19:00:00
+U1006,2024-02-03,North,Clothing,200.84,57,Basic,Franklin,user6@example.com,user_6,270.11,S019,,2024-10-25 12:00:00
+U1320,10/22/2024,West,Electronics,170.52,68,Basic,Georgetown,user320@example.com,user_320,750.2,S020,Active,2024-11-20 20:00:00
+U1338,2024-02-16,East,Sports,349.58,24,Basic,Georgetown,user338@example.com,,897.65,S007,,2024-02-16 08:00:00
+U1307,2024-12-07,West,Clothing,165.63,26,Basic,Riverside,user307@example.com,user_307,585.27,S016,Inactive,2024-07-09 02:00:00
+U1120,06/09/2024,East,Home & Kitchen,208.14,65,Free,Salem,user120@example.com,user_120,146.7,S007,Pending,2024-12-05 15:00:00
+U1211,07/14/2024,East,Home & Kitchen,222.67,32,Premium,Clinton,user211@example.com,user_211,105.74,S012,,2025-01-22 18:00:00
+U1317,2024-10-15,South,Sports,130.77,44,Basic,Georgetown,,user_317,26.14,S005,Pending,2024-01-04 09:00:00
+U1434,2024-09-07,East,Groceries,406.67,58,Basic,Franklin,user434@example.com,user_434,501.98,S003,Inactive,2024-05-27 08:00:00
+U1206,2024-04-17,West,Groceries,58.48,16,Premium,Georgetown,user206@example.com,user_206,419.88,S013,Pending,2024-10-06 12:00:00
+U1196,2024-03-06,North,Electronics,233.19,26,Free,Georgetown,user196@example.com,user_196,,S014,Inactive,2024-06-30 06:00:00
+U1151,2024-08-11,West,Groceries,308.86,54,Basic,Madison,,user_151,495.7,S012,,2024-08-09 05:00:00
+U1487,01/25/2024,North,Clothing,371.13,16,Premium,Madison,user487@example.com,user_487,316.6,S015,Pending,2025-02-04 12:00:00
+U1491,11/06/2024,South,Sports,431.68,17,Basic,Georgetown,user491@example.com,,388.19,S003,Active,2024-02-20 17:00:00
+U1408,08/14/2024,West,Books,24.84,59,Free,Riverside,user408@example.com,user_408,451.51,S003,Pending,2024-01-29 19:00:00
+U1347,2024-06-14,West,Books,201.04,52,Free,Springfield,user347@example.com,user_347,923.06,S016,,2024-01-19 20:00:00
+U1053,2024-10-08,North,Home & Kitchen,244.93,17,Free,Greenville,user53@example.com,user_53,,S014,Active,2024-04-25 03:00:00
+U1396,01/21/2024,West,Home & Kitchen,242.24,67,Free,Riverside,user396@example.com,user_396,22.3,S014,Inactive,2024-03-08 11:00:00
+U1431,06/29/2024,North,Electronics,,18,Premium,Madison,user431@example.com,user_431,,S011,,2024-02-19 13:00:00
+U1406,01/22/2024,East,Home & Kitchen,96.33,51,Free,Springfield,user406@example.com,user_406,453.94,S006,Pending,2024-03-03 00:00:00
+U1313,01/17/2024,South,Sports,297.2,19,Basic,Greenville,user313@example.com,user_313,216.65,S016,Active,2024-08-27 20:00:00
+U1155,2024-02-02,South,Groceries,244.69,20,Basic,Clinton,user155@example.com,user_155,620.5,S015,Active,2024-03-10 09:00:00
+U1029,12/05/2024,West,Clothing,116.2,28,Premium,Springfield,user29@example.com,user_29,770.8,S015,,2024-11-18 18:00:00
+U1227,2024-03-18,East,Groceries,286.85,45,Premium,Madison,user227@example.com,user_227,339.3,S006,Pending,2024-11-20 01:00:00
+U1368,12/21/2024,North,Electronics,291.18,52,Premium,Clinton,user368@example.com,user_368,91.69,S017,Active,2024-05-22 08:00:00
+U1066,08/20/2024,North,Sports,321.08,39,Premium,Greenville,user66@example.com,user_66,334.73,S020,Inactive,2024-11-27 02:00:00
+U1034,2024-08-02,South,Clothing,245.39,40,Basic,Georgetown,user34@example.com,user_34,980.91,S018,Active,2024-07-20 18:00:00
+U1356,2024-10-17,West,Books,230.51,59,Free,Salem,user356@example.com,user_356,896.74,S009,Pending,2024-07-19 05:00:00
+U1161,2025-01-17,South,Groceries,387.31,53,Free,Franklin,user161@example.com,,421.82,S003,Active,2025-01-08 04:00:00
+U1194,05/07/2024,South,Sports,152.93,68,Premium,Springfield,user194@example.com,user_194,554.62,S004,,2024-02-22 04:00:00
+U1018,06/02/2024,North,Electronics,,55,Free,Riverside,user18@example.com,user_18,933.93,S003,Inactive,2024-07-08 09:00:00
+U1032,2024-09-05,North,Home & Kitchen,146.44,33,Basic,Madison,user32@example.com,user_32,389.2,S005,Inactive,2024-02-02 13:00:00
+U1044,2024-05-31,North,Clothing,355.47,24,Basic,Springfield,user44@example.com,user_44,135.02,S016,Active,2024-01-07 18:00:00
+U1064,2025-01-09,West,Groceries,210.67,28,Premium,Madison,user64@example.com,user_64,264.4,S016,Pending,2025-01-17 10:00:00
+U1297,2025-01-18,East,Clothing,52.3,46,Free,Springfield,,user_297,92.42,S009,Inactive,2024-02-13 20:00:00
+U1229,2024-07-15,West,Sports,189.69,16,Basic,Greenville,,,234.0,S012,Pending,2024-03-07 03:00:00
+U1426,2024-06-22,South,Electronics,215.23,47,Basic,Clinton,user426@example.com,user_426,362.54,S020,,2024-09-05 16:00:00
+U1049,06/06/2024,South,Electronics,155.53,41,Basic,Salem,user49@example.com,user_49,737.19,S020,Pending,2024-01-14 02:00:00
+U1392,2024-06-15,West,Clothing,435.59,40,Premium,Riverside,user392@example.com,user_392,153.49,S020,,2024-04-01 12:00:00
+U1225,2024-08-29,North,Books,382.64,27,Free,Madison,user225@example.com,user_225,872.72,S014,Pending,2024-07-09 08:00:00
+U1318,2024-04-23,North,Electronics,471.96,68,Basic,Franklin,user318@example.com,user_318,272.34,S019,Inactive,2024-04-29 08:00:00
+U1308,2024-05-07,South,Electronics,172.52,64,Free,Springfield,user308@example.com,user_308,793.55,S005,,2024-04-29 10:00:00
+U1398,2024-12-26,West,Home & Kitchen,169.79,18,Basic,Georgetown,user398@example.com,user_398,579.48,S007,Active,2024-11-13 10:00:00
+U1038,2024-10-23,North,Sports,479.3,41,Free,Greenville,user38@example.com,user_38,110.88,S010,Active,2024-10-16 01:00:00
+U1122,2024-12-26,South,Groceries,282.44,66,Free,Clinton,user122@example.com,user_122,896.8,S013,Pending,2025-01-30 04:00:00
+U1407,07/26/2024,East,Home & Kitchen,82.25,63,Free,Madison,user407@example.com,user_407,969.91,S019,Inactive,2024-10-16 23:00:00
+U1267,2024-08-29,North,Home & Kitchen,387.21,62,Basic,Franklin,user267@example.com,user_267,507.15,S008,Inactive,2025-01-22 16:00:00
+U1171,2024-04-15,West,Sports,144.14,50,Premium,Madison,user171@example.com,user_171,952.87,S017,Active,2024-03-10 13:00:00
+U1028,01/01/2024,North,Clothing,292.09,57,Basic,Salem,user28@example.com,user_28,795.8,S006,Active,2024-05-25 16:00:00
+U1285,05/11/2024,South,Home & Kitchen,386.13,64,Basic,Salem,user285@example.com,user_285,487.15,S009,Active,2024-07-14 20:00:00
+U1123,2024-05-28,North,Books,462.38,57,Basic,Salem,user123@example.com,user_123,566.4,S009,Inactive,2024-02-25 19:00:00
+U1243,08/21/2024,North,Electronics,422.94,37,Free,Salem,user243@example.com,user_243,106.46,S008,Active,2024-06-23 11:00:00
+U1056,09/04/2024,North,Sports,191.72,36,Premium,Greenville,user56@example.com,user_56,53.21,S016,,2024-07-16 21:00:00
+U1127,08/27/2024,East,Electronics,366.9,57,Basic,Franklin,,user_127,677.66,S007,Inactive,2024-11-08 20:00:00
+U1129,2025-01-05,North,Books,121.97,58,Premium,Salem,user129@example.com,user_129,896.17,S010,Active,2024-11-23 09:00:00
+U1465,08/20/2024,North,Groceries,436.32,27,Premium,Franklin,user465@example.com,user_465,676.67,S014,Active,2024-01-03 12:00:00
+U1321,2024-07-14,North,Sports,272.27,25,Basic,Greenville,user321@example.com,user_321,971.33,S020,Active,2024-04-23 13:00:00
+U1409,2024-11-24,East,Groceries,46.38,70,Basic,Riverside,user409@example.com,user_409,607.14,S017,Active,2024-12-07 11:00:00
+U1304,01/08/2024,East,Groceries,393.93,47,Basic,Salem,user304@example.com,user_304,753.06,S005,Active,2024-05-16 12:00:00
+U1448,12/17/2024,North,Clothing,186.96,41,Basic,Greenville,,,615.88,S008,Active,2024-08-24 06:00:00
+U1449,2024-05-14,West,Home & Kitchen,302.19,25,Premium,Madison,user449@example.com,user_449,,S017,,2025-01-30 14:00:00
+U1019,03/21/2024,North,Sports,404.51,49,Premium,Clinton,user19@example.com,user_19,271.82,S004,Inactive,2024-05-19 09:00:00
+U1246,2025-01-11,South,Sports,256.62,27,Free,Franklin,user246@example.com,user_246,604.54,S011,,2024-08-02 19:00:00
+U1015,2024-09-03,South,Electronics,6.07,40,Basic,Salem,user15@example.com,user_15,785.53,S016,Inactive,2024-04-07 09:00:00
+U1050,2024-04-27,North,Sports,379.35,46,Free,Salem,user50@example.com,user_50,638.44,S016,Active,2024-08-28 11:00:00
+U1436,11/29/2024,North,Home & Kitchen,160.11,42,Basic,Clinton,user436@example.com,user_436,188.79,S001,Inactive,2024-10-22 15:00:00
+U1321,2024-07-14,North,Sports,272.27,25,Basic,Greenville,user321@example.com,user_321,971.33,S020,Active,2024-04-23 13:00:00
+U1033,07/27/2024,South,Home & Kitchen,417.28,40,Free,Springfield,user33@example.com,user_33,15.84,S012,Pending,2025-01-20 12:00:00
+U1160,12/02/2024,East,Books,283.79,57,Free,Georgetown,user160@example.com,user_160,114.89,S004,Pending,2024-04-23 16:00:00
+U1169,2024-02-27,North,Sports,186.6,68,Premium,Salem,user169@example.com,user_169,831.77,S008,Pending,2024-01-17 14:00:00
+U1085,02/04/2024,South,Books,140.96,19,Basic,Riverside,user85@example.com,user_85,833.38,S003,Active,2024-11-10 19:00:00
+U1101,04/05/2024,South,Groceries,262.04,67,Premium,Georgetown,user101@example.com,user_101,550.02,S011,Active,2024-02-10 10:00:00
+U1128,07/26/2024,North,Electronics,52.22,24,Basic,Madison,user128@example.com,,452.27,S009,Pending,2024-06-03 18:00:00
+U1039,06/26/2024,North,Electronics,173.91,70,Basic,Salem,user39@example.com,user_39,830.42,S005,,2024-03-31 23:00:00
+U1217,01/15/2025,North,Groceries,304.46,21,Premium,Salem,user217@example.com,user_217,761.9,S012,Active,2024-09-20 05:00:00
+U1354,06/28/2024,North,Clothing,402.98,52,Premium,Franklin,user354@example.com,user_354,449.21,S005,Active,2024-08-29 21:00:00
+U1116,08/18/2024,West,Clothing,199.98,66,Basic,Madison,user116@example.com,user_116,505.08,S002,Active,2024-03-11 22:00:00
+U1378,01/28/2025,East,Sports,456.74,61,Basic,Riverside,,user_378,779.46,S001,,2024-03-17 20:00:00
+U1013,2024-07-27,West,Electronics,180.38,42,Basic,Springfield,user13@example.com,user_13,408.6,S011,Active,2024-05-07 06:00:00
+U1414,2024-09-09,North,Sports,220.85,32,Free,Salem,user414@example.com,user_414,735.63,S001,Pending,2024-03-24 18:00:00
+U1293,2024-05-08,South,Electronics,34.72,68,Basic,Salem,user293@example.com,user_293,267.17,S012,Pending,2024-06-25 00:00:00
+U1451,04/06/2024,East,Home & Kitchen,19.24,32,Premium,Salem,user451@example.com,user_451,463.58,S001,,2024-03-09 10:00:00
+U1042,12/19/2024,South,Home & Kitchen,51.06,30,Basic,Greenville,user42@example.com,user_42,535.61,S014,Pending,2024-06-29 22:00:00
+U1172,01/31/2024,East,Books,128.59,61,Basic,Greenville,user172@example.com,user_172,581.65,S009,,2024-07-11 14:00:00
+U1100,06/07/2024,South,Groceries,325.22,34,Basic,Springfield,user100@example.com,user_100,374.34,S013,,2024-07-16 10:00:00
+U1201,2024-03-13,South,Sports,247.77,21,Premium,Greenville,user201@example.com,,338.42,S020,Inactive,2024-03-07 10:00:00
+U1003,06/25/2024,West,Books,66.79,40,Premium,Clinton,user3@example.com,user_3,581.58,S003,Active,2024-12-04 07:00:00
+U1162,06/27/2024,North,Home & Kitchen,262.95,38,Basic,Riverside,user162@example.com,user_162,307.26,S004,Active,2024-06-24 20:00:00
+U1230,07/15/2024,East,Electronics,152.61,34,Basic,Madison,user230@example.com,user_230,996.18,S016,Pending,2025-01-19 06:00:00
+U1495,2024-11-29,North,Sports,46.53,56,Free,Greenville,user495@example.com,user_495,176.51,S008,,2024-10-11 14:00:00
+U1216,2024-12-19,West,Books,137.95,39,Premium,Madison,user216@example.com,user_216,496.7,S004,Inactive,2024-03-09 09:00:00
+U1143,2024-06-17,South,Sports,252.15,57,Free,Madison,user143@example.com,user_143,645.28,S016,,2024-03-27 23:00:00
+U1025,2024-06-18,West,Groceries,481.45,32,Premium,Riverside,user25@example.com,user_25,442.03,S017,Active,2024-07-16 18:00:00
+U1115,2024-01-05,South,Clothing,365.12,64,Basic,Madison,user115@example.com,user_115,368.9,S010,Active,2024-07-16 16:00:00
+U1370,04/30/2024,East,Sports,174.71,21,Premium,Franklin,user370@example.com,user_370,389.34,S015,Inactive,2024-04-17 18:00:00
+U1490,2024-10-04,East,Home & Kitchen,14.24,58,Free,Franklin,user490@example.com,user_490,831.39,S019,,2024-02-13 17:00:00
+U1023,03/31/2024,West,Clothing,169.43,42,Free,Greenville,user23@example.com,user_23,873.45,S016,Inactive,2024-04-12 14:00:00
+U1389,2024-01-03,East,Electronics,488.51,55,Basic,Greenville,user389@example.com,user_389,62.54,S004,Inactive,2024-12-16 15:00:00
+U1265,12/30/2024,North,Groceries,367.82,46,Basic,Salem,user265@example.com,user_265,184.01,S020,Active,2024-05-23 04:00:00
+U1186,03/26/2024,East,Groceries,447.66,59,Free,Riverside,user186@example.com,user_186,,S001,Inactive,2024-01-24 15:00:00
+U1254,11/11/2024,South,Sports,41.08,61,Basic,Greenville,user254@example.com,user_254,167.78,S018,,2024-02-17 11:00:00
+U1239,07/29/2024,West,Electronics,160.55,61,Free,Greenville,user239@example.com,user_239,527.87,S020,Active,2024-08-09 21:00:00
+U1144,2024-06-29,East,Books,96.1,50,Free,Springfield,user144@example.com,user_144,819.82,S002,Active,2024-07-30 04:00:00
+U1492,03/27/2024,East,Clothing,49.37,35,Basic,Franklin,user492@example.com,user_492,716.17,S010,,2024-02-20 10:00:00
+U1063,11/06/2024,East,Books,129.06,64,Free,Franklin,user63@example.com,user_63,315.84,S015,Active,2024-10-23 11:00:00
+U1414,2024-09-09,North,Sports,220.85,32,Free,Salem,user414@example.com,user_414,735.63,S001,Pending,2024-03-24 18:00:00
+U1209,07/28/2024,North,Groceries,29.57,52,Free,Salem,user209@example.com,user_209,301.6,S020,,2024-04-12 03:00:00
+U1433,2024-06-15,South,Books,286.18,42,Basic,Springfield,user433@example.com,user_433,383.96,S013,Pending,2024-10-20 03:00:00
+U1222,11/15/2024,West,Electronics,332.87,69,Basic,Clinton,user222@example.com,user_222,988.48,S011,Pending,2024-05-13 20:00:00
+U1166,2024-06-01,East,Groceries,156.16,27,Basic,Franklin,user166@example.com,user_166,389.87,S006,,2024-11-21 17:00:00
+U1438,2024-02-02,South,Groceries,324.79,32,Free,Greenville,user438@example.com,user_438,253.13,S010,,2024-09-05 17:00:00
+U1027,09/16/2024,South,Groceries,151.35,24,Premium,Georgetown,user27@example.com,user_27,182.29,S019,Pending,2024-07-26 17:00:00
+U1333,08/14/2024,East,Clothing,96.45,64,Free,Clinton,user333@example.com,user_333,238.6,S001,Pending,2024-02-10 22:00:00
+U1483,2024-05-25,South,Sports,57.09,49,Free,Greenville,user483@example.com,user_483,714.52,S014,Active,2024-02-17 01:00:00
+U1345,06/11/2024,North,Clothing,250.72,62,Free,Salem,user345@example.com,user_345,711.5,S007,Active,2024-03-01 00:00:00
+U1329,06/05/2024,South,Home & Kitchen,14.09,59,Basic,Madison,user329@example.com,user_329,506.24,S002,Pending,2024-07-17 00:00:00
+U1219,04/11/2024,North,Home & Kitchen,319.53,23,Free,Springfield,user219@example.com,user_219,960.92,S016,Pending,2024-06-25 05:00:00
+U1481,09/18/2024,North,Books,18.81,66,Free,Clinton,user481@example.com,user_481,987.09,S004,Active,2024-07-09 08:00:00
+U1002,01/01/2025,East,Home & Kitchen,405.67,16,Premium,Georgetown,user2@example.com,user_2,343.23,S003,,2024-02-19 11:00:00
+U1233,2024-11-18,North,Home & Kitchen,332.93,33,Free,Franklin,user233@example.com,user_233,621.52,S010,Active,2024-02-24 15:00:00
+U1453,09/15/2024,North,Home & Kitchen,70.46,51,Premium,Franklin,user453@example.com,user_453,879.12,S005,Active,2024-06-11 22:00:00
+U1287,2024-06-30,North,Clothing,343.14,28,Basic,Greenville,user287@example.com,user_287,236.92,S008,Pending,2024-03-20 03:00:00
+U1349,12/16/2024,North,Electronics,143.83,17,Basic,Georgetown,user349@example.com,user_349,395.67,S020,Active,2025-02-04 09:00:00
+U1130,2024-07-07,East,Clothing,230.21,54,Basic,Georgetown,user130@example.com,user_130,803.98,S007,Inactive,2024-12-14 19:00:00
+U1315,04/28/2024,East,Clothing,128.14,56,Premium,Georgetown,user315@example.com,user_315,677.75,S014,Active,2024-03-26 05:00:00
+U1273,2024-05-12,South,Sports,320.62,62,Free,Clinton,user273@example.com,user_273,476.7,S016,Inactive,2024-04-22 13:00:00
+U1500,07/02/2024,East,Books,66.76,39,Premium,Salem,,user_500,683.75,S012,Inactive,2024-02-16 19:00:00
+U1355,2024-01-26,South,Electronics,199.0,61,Free,Salem,user355@example.com,user_355,715.77,S018,Active,2025-01-21 14:00:00
+U1497,2025-01-13,North,Electronics,65.87,24,Free,Clinton,user497@example.com,user_497,804.04,S011,Pending,2025-01-20 22:00:00
+U1012,2024-12-28,East,Electronics,430.52,20,Free,Greenville,user12@example.com,user_12,726.12,S019,,2024-05-04 15:00:00
+U1348,03/10/2024,East,Books,433.29,37,Basic,Georgetown,user348@example.com,user_348,569.29,S011,Active,2024-04-16 18:00:00
+U1435,01/25/2024,South,Clothing,479.18,61,Free,Riverside,user435@example.com,user_435,535.75,S014,Inactive,2024-06-26 02:00:00
+U1099,10/06/2024,East,Books,349.22,56,Premium,Franklin,user99@example.com,user_99,300.51,S002,Inactive,2024-01-22 10:00:00
+U1141,03/01/2024,East,Books,106.23,31,Free,Madison,user141@example.com,user_141,365.67,S009,Pending,2024-09-19 15:00:00
+U1401,08/19/2024,West,Home & Kitchen,340.76,50,Basic,Salem,user401@example.com,user_401,810.71,S003,Inactive,2024-08-22 02:00:00
+U1374,04/02/2024,West,Books,,20,Premium,Georgetown,user374@example.com,user_374,227.22,S010,Pending,2024-04-08 01:00:00
+U1268,03/12/2024,East,Clothing,285.08,25,Free,Salem,user268@example.com,user_268,239.43,S009,Pending,2024-04-29 01:00:00
+U1452,12/20/2024,East,Books,214.53,54,Basic,Riverside,user452@example.com,user_452,242.49,S012,Active,2024-01-03 08:00:00
+U1117,06/19/2024,South,Clothing,260.18,36,Free,Madison,user117@example.com,user_117,306.24,S011,,2024-12-28 18:00:00
+U1439,08/11/2024,West,Clothing,72.53,32,Basic,Franklin,user439@example.com,user_439,784.41,S002,Active,2024-06-09 19:00:00
+U1292,2024-05-18,South,Home & Kitchen,401.02,63,Premium,Salem,user292@example.com,user_292,995.61,S017,Pending,2024-09-06 09:00:00
+U1478,2025-01-29,West,Electronics,203.82,65,Premium,Georgetown,user478@example.com,user_478,645.05,S019,Active,2024-11-19 22:00:00
+U1266,2024-10-02,North,Books,42.85,20,Premium,Springfield,user266@example.com,user_266,220.63,S002,Pending,2024-10-05 17:00:00
+U1131,02/11/2024,North,Electronics,60.54,69,Free,Greenville,user131@example.com,user_131,525.14,S004,Inactive,2025-01-02 18:00:00
+U1201,2024-03-13,South,Sports,247.77,21,Premium,Greenville,user201@example.com,,338.42,S020,Inactive,2024-03-07 10:00:00
+U1132,2024-09-07,South,Electronics,259.06,45,Free,Springfield,user132@example.com,user_132,31.55,S009,Active,2025-01-16 06:00:00
+U1067,11/21/2024,North,Books,74.19,18,Basic,Salem,user67@example.com,user_67,394.76,S012,,2024-10-27 23:00:00
+U1180,11/03/2024,West,Books,106.7,54,Free,Greenville,user180@example.com,user_180,898.93,S008,,2024-07-16 03:00:00
+U1199,01/14/2024,East,Electronics,390.38,19,Basic,Madison,user199@example.com,user_199,109.13,S008,Pending,2024-09-30 23:00:00
+U1175,2024-08-23,West,Clothing,5.33,43,Premium,Franklin,user175@example.com,user_175,877.83,S003,Pending,2024-05-08 02:00:00
+U1120,06/09/2024,East,Home & Kitchen,208.14,65,Free,Salem,user120@example.com,user_120,146.7,S007,Pending,2024-12-05 15:00:00
