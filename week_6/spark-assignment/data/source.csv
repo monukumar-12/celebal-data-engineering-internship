@@ -1,0 +1,16 @@
+product_id,old_name,category,price,base_price,status,amount,region,priority,user_id
+P001,Wireless Mouse,Electronics,799,677,Completed,1500,North,High,U101
+P002,Cotton T-Shirt,Apparel,499,423,Pending,450,South,Low,U102
+P003,Bluetooth Speaker,Electronics,1999,1694,Completed,1999,East,High,U103
+P004,Office Chair,Furniture,5499,4661,Completed,5499,North,Medium,
+P005,Notebook Set,Stationery,150,127,Pending,300,West,Low,U105
+P006,LED Monitor,Electronics,8999,7627,Completed,8999,South,High,U106
+P007,Running Shoes,Apparel,2499,2118,Completed,2499,North,Medium,U107
+P008,Study Lamp,Furniture,899,762,Pending,899,East,Low,U108
+P009,Smartphone Case,Electronics,299,253,Completed,1200,West,High,
+P010,Backpack,Apparel,1299,1101,Completed,1299,North,Medium,U110
+P011,Keyboard,Electronics,1599,1355,Pending,300,South,Low,U111
+P012,Bookshelf,Furniture,3499,2966,Completed,3499,East,High,U112
+P013,Sports Cap,Apparel,399,338,Completed,1050,North,High,U113
+P014,Desk Organizer,Stationery,249,211,Pending,249,West,Low,
+P015,Power Bank,Electronics,1499,1271,Completed,1499,South,Medium,U115
