@@ -1,0 +1,25 @@
+DATA QUALITY REPORT
+============================================================
+Generated: 2026-08-07 15:16:03
+
+1. clean_orders()
+   - Bad-format dates fixed (DD-MM-YYYY -> YYYY-MM-DD HH:MM:SS): 150
+   - Unparseable dates (left blank / NaT): 0
+   - NULL/missing customer_id rows: 125
+
+2. clean_products()
+   - Product names normalized (spacing/case fixed): 51
+
+3. validate_emails()
+   - Invalid emails found: 12
+   - Affected customer_ids: [26, 31, 33, 90, 105, 115, 143, 229, 251, 282, 433, 559]
+
+4. check_referential_integrity()
+   - Orphaned order_items (order_id not in orders): 0
+
+Additional checks
+   - Negative quantity rows (returns): 144
+   - discount_percent out of [0,100] range: 0
+   - Zero-quantity rows: 0
+
+Cleaned files written to: data/cleaned

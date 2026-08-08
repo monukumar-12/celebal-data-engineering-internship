@@ -1,0 +1,141 @@
+product_id,product_name,category,subcategory,cost_price
+1,Mini Flip Phone,Electronics,Mobiles,854.15
+2,Deluxe Flip Phone,Electronics,Mobiles,2220.23
+3,CLASSIC SMARTPHONE Z2,Electronics,Mobiles,17243.88
+4,everyday tablet mini,Electronics,Mobiles,5205.16
+5,Mini Smartphone X1,Electronics,Mobiles,13330.41
+6,Everyday Smartphone Z2,Electronics,Mobiles,17616.14
+7,Deluxe Flip Phone,Electronics,Mobiles,12884.65
+8,Classic Ultrabook Air,Electronics,Laptops,19652.99
+9,Premium Gaming Laptop,Electronics,Laptops,3215.86
+10,Pro  Ultrabook  Air  ,Electronics,Laptops,8086.31
+11,Mini Chromebook,Electronics,Laptops,14456.77
+12,Deluxe Chromebook,Electronics,Laptops,1934.13
+13,Classic Chromebook,Electronics,Laptops,6991.73
+14,Essential Chromebook,Electronics,Laptops,8215.87
+15,Premium Wireless Earbuds,Electronics,Headphones,11488.31
+16,Essential Wireless Earbuds,Electronics,Headphones,9973.01
+17,Ultra Over-Ear Headphones,Electronics,Headphones,8105.49
+18,Deluxe Neckband,Electronics,Headphones,3308.33
+19,Compact Neckband,Electronics,Headphones,19068.24
+20,Premium Wireless Earbuds,Electronics,Headphones,20925.72
+21,Premium Wireless Earbuds,Electronics,Headphones,3991.69
+22,Compact DSLR Camera,Electronics,Cameras,10723.59
+23,PRO INSTANT CAMERA,Electronics,Cameras,6886.79
+24,Essential  Instant  Camera  ,Electronics,Cameras,16629.49
+25,Pro DSLR Camera,Electronics,Cameras,7672.46
+26,Mini Webcam,Electronics,Cameras,17607.27
+27,Premium Action Camera,Electronics,Cameras,3360.86
+28,Mini  Webcam  ,Electronics,Cameras,17405.15
+29,Classic Screen Guard,Electronics,Accessories,11968.62
+30,Mini  Screen  Guard  ,Electronics,Accessories,20158.62
+31,Classic Phone Case,Electronics,Accessories,7516.42
+32,Ultra Power Bank,Electronics,Accessories,16944.57
+33,Classic Charger Cable,Electronics,Accessories,4144.71
+34,Essential Power Bank,Electronics,Accessories,3826.78
+35,Ultra Screen Guard,Electronics,Accessories,2212.87
+36,Classic Denim Jeans,Clothing,Men,14759.87
+37,Ultra Formal Trousers,Clothing,Men,7896.87
+38,pro denim jeans,Clothing,Men,13857.25
+39,Everyday Formal Trousers,Clothing,Men,17277.38
+40,Deluxe Denim Jeans,Clothing,Men,12762.59
+41,Ultra Formal Trousers,Clothing,Men,19605.85
+42,Mini Polo T-Shirt,Clothing,Men,6064.99
+43,Everyday Kurti,Clothing,Women,24443.54
+44,Essential  Palazzo  Pants  ,Clothing,Women,21527.31
+45,Everyday Denim Jacket,Clothing,Women,17089.4
+46,Compact  Kurti  ,Clothing,Women,1734.94
+47,Deluxe  Maxi  Dress  ,Clothing,Women,1558.7
+48,Ultra Palazzo Pants,Clothing,Women,12551.17
+49,Ultra Denim Jacket,Clothing,Women,2106.57
+50,smart shorts set,Clothing,Kids,12807.05
+51,Mini Shorts Set,Clothing,Kids,9798.75
+52,Classic School Uniform,Clothing,Kids,18262.46
+53,MINI GRAPHIC T-SHIRT,Clothing,Kids,2943.87
+54,Everyday Graphic T-Shirt,Clothing,Kids,18555.25
+55,Pro  Graphic  T-Shirt  ,Clothing,Kids,3473.43
+56,Premium Shorts Set,Clothing,Kids,8700.29
+57,smart formal shoes,Clothing,Footwear,19539.04
+58,Deluxe Running Shoes,Clothing,Footwear,782.44
+59,Ultra Formal Shoes,Clothing,Footwear,6610.59
+60,Everyday Running Shoes,Clothing,Footwear,12794.01
+61,Premium Sneakers,Clothing,Footwear,4213.69
+62,Pro Formal Shoes,Clothing,Footwear,22362.0
+63,Classic Sandals,Clothing,Footwear,114.08
+64,Premium  Puffer  Jacket  ,Clothing,Winterwear,9131.21
+65,Pro Puffer Jacket,Clothing,Winterwear,21444.26
+66,smart muffler,Clothing,Winterwear,22900.58
+67,Essential Fleece Hoodie,Clothing,Winterwear,14309.82
+68,CLASSIC WOOL SWEATER,Clothing,Winterwear,24536.28
+69,Ultra Wool Sweater,Clothing,Winterwear,21657.5
+70,Deluxe  Fleece  Hoodie  ,Clothing,Winterwear,11445.82
+71,ESSENTIAL BLENDER,Home,Kitchen,18502.42
+72,Mini Pressure Cooker,Home,Kitchen,24297.85
+73,MINI BLENDER,Home,Kitchen,646.56
+74,Smart Cutlery Set,Home,Kitchen,17351.85
+75,Premium  Cutlery  Set  ,Home,Kitchen,16449.73
+76,DELUXE NON-STICK PAN,Home,Kitchen,10524.41
+77,Premium Blender,Home,Kitchen,2371.01
+78,Mini Bed Frame,Home,Furniture,9343.67
+79,Classic Study Table,Home,Furniture,15948.53
+80,Ultra Study Table,Home,Furniture,1603.96
+81,PRO BOOKSHELF,Home,Furniture,23154.75
+82,Ultra Office Chair,Home,Furniture,6835.3
+83,Classic  Bookshelf  ,Home,Furniture,19265.16
+84,Classic  Bookshelf  ,Home,Furniture,11266.69
+85,Essential  Wall  Art  ,Home,Decor,8989.27
+86,Mini Wall Art,Home,Decor,6661.95
+87,CLASSIC WALL CLOCK,Home,Decor,20668.35
+88,EVERYDAY WALL CLOCK,Home,Decor,3750.68
+89,Mini Photo Frame,Home,Decor,1271.32
+90,Deluxe Photo Frame,Home,Decor,4388.0
+91,Ultra Wall Art,Home,Decor,13775.52
+92,Classic  Mattress  Protector  ,Home,Bedding,19855.55
+93,Classic  Cotton  Bedsheet  ,Home,Bedding,19534.95
+94,mini pillow set,Home,Bedding,17172.82
+95,Classic Comforter,Home,Bedding,1920.93
+96,Classic Pillow Set,Home,Bedding,11113.61
+97,Pro Cotton Bedsheet,Home,Bedding,20742.44
+98,Essential  Cotton  Bedsheet  ,Home,Bedding,11551.82
+99,Pro Wardrobe,Home,Storage,9905.22
+100,Premium Wardrobe,Home,Storage,4361.54
+101,mini shoe rack,Home,Storage,3758.35
+102,Everyday Shoe Rack,Home,Storage,12497.35
+103,Smart  Wardrobe  ,Home,Storage,7030.41
+104,PRO WARDROBE,Home,Storage,13169.06
+105,Smart Plastic Organizer,Home,Storage,19558.8
+106,Essential Romance Novel,Books,Fiction,12142.75
+107,Everyday Thriller Paperback,Books,Fiction,4536.41
+108,Essential  Fantasy  Epic  ,Books,Fiction,20276.7
+109,Deluxe Mystery Novel,Books,Fiction,11818.53
+110,Essential Fantasy Epic,Books,Fiction,2548.35
+111,Mini Thriller Paperback,Books,Fiction,19791.37
+112,Premium Fantasy Epic,Books,Fiction,24567.48
+113,Ultra History Book,Books,Non-Fiction,24788.97
+114,pro self-help guide,Books,Non-Fiction,18465.72
+115,Essential Biography,Books,Non-Fiction,8824.47
+116,Everyday Self-Help Guide,Books,Non-Fiction,4746.43
+117,compact history book,Books,Non-Fiction,1451.39
+118,Everyday  Self-Help  Guide  ,Books,Non-Fiction,11975.83
+119,Essential Self-Help Guide,Books,Non-Fiction,8551.94
+120,Pro  Exam  Prep  Book  ,Books,Academic,3735.41
+121,Pro Textbook,Books,Academic,21523.7
+122,Classic Exam Prep Book,Books,Academic,16570.38
+123,Everyday Textbook,Books,Academic,8098.95
+124,Pro Workbook,Books,Academic,24018.52
+125,Essential Reference Guide,Books,Academic,14071.33
+126,EVERYDAY EXAM PREP BOOK,Books,Academic,4425.02
+127,Deluxe  Manga  Volume  ,Books,Comics,18234.33
+128,Everyday Superhero Comic,Books,Comics,19282.22
+129,everyday graphic novel,Books,Comics,20229.73
+130,Everyday Comic Anthology,Books,Comics,2647.55
+131,Compact Comic Anthology,Books,Comics,1991.28
+132,ESSENTIAL MANGA VOLUME,Books,Comics,2263.71
+133,Essential  Superhero  Comic  ,Books,Comics,5281.62
+134,classic activity book,Books,Children,81.96
+135,Ultra Board Book,Books,Children,24229.09
+136,Ultra Board Book,Books,Children,8813.22
+137,Ultra Picture Book,Books,Children,19728.81
+138,everyday story collection,Books,Children,21151.77
+139,Deluxe Picture Book,Books,Children,23793.97
+140,classic activity book,Books,Children,18313.03
