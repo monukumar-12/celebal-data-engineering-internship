@@ -1,0 +1,155 @@
+product_id,product_name,category,price,active,effective_start,effective_end,is_current
+P00001,Mini Perfume,Beauty,7519.88,Y,2024-01-01,,True
+P00002,Lite T-Shirt,Fashion,12959.03,Y,2024-01-01,,True
+P00003,Pro Cycling Helmet,Sports,3596.33,Y,2024-01-01,,True
+P00004,Max Cookbook,Books,11435.29,Y,2024-01-01,,True
+P00005,Pro Planner,Books,10898.5,Y,2024-01-01,,True
+P00006,Pro Dumbbell Set,Sports,15242.13,Y,2024-01-01,,True
+P00007,Plus Board Game,Toys,1695.66,Y,2024-01-01,,True
+P00008,Max Sneakers,Fashion,387.92,Y,2024-01-01,,True
+P00009,Plus Lipstick,Beauty,13213.04,Y,2024-01-01,,True
+P00010,Mini Novel,Books,14694.37,Y,2024-01-01,,True
+P00011,Max T-Shirt,Fashion,3323.46,Y,2024-01-01,2024-06-01,False
+P00011,Max T-Shirt,Fashion,3323.46,N,2024-06-01,,True
+P00012,Max RC Car,Toys,14499.23,Y,2024-01-01,2024-06-01,False
+P00012,Max RC Car,Toys,14762.96,Y,2024-06-01,,True
+P00013,Pro Novel,Books,15087.03,Y,2024-01-01,2024-06-01,False
+P00013,Pro Novel,Books,18175.91,Y,2024-06-01,,True
+P00014,Classic Smartwatch,Electronics,13181.63,Y,2024-01-01,,True
+P00015,Pro Cereal Box,Grocery,6246.13,Y,2024-01-01,,True
+P00016,Ultra Almonds 500g,Grocery,3591.51,Y,2024-01-01,,True
+P00017,Mini Air Fryer,Home & Kitchen,7245.98,Y,2024-01-01,2024-06-01,False
+P00017,Mini Air Fryer,Home & Kitchen,7236.36,Y,2024-06-01,,True
+P00018,Plus Blender,Home & Kitchen,10426.0,Y,2024-01-01,,True
+P00019,Smart Action Figure,Toys,1162.47,Y,2024-01-01,,True
+P00020,Lite Cricket Bat,Sports,6822.91,Y,2024-01-01,,True
+P00021,Pro Sunscreen,Beauty,15831.58,Y,2024-01-01,,True
+P00022,Smart Planner,Books,5634.74,Y,2024-01-01,,True
+P00023,Mini Planner,Books,3040.09,Y,2024-01-01,,True
+P00024,Plus Comic Bundle,Books,661.99,Y,2024-01-01,2024-06-01,False
+P00024,Plus Comic Bundle,Books,717.75,N,2024-06-01,,True
+P00025,Smart Yoga Mat,Sports,8564.03,Y,2024-01-01,,True
+P00026,Max Lipstick,Beauty,4115.14,Y,2024-01-01,,True
+P00027,Pro Shampoo,Beauty,12270.99,Y,2024-01-01,,True
+P00028,Classic Sunscreen,Beauty,5804.91,Y,2024-01-01,,True
+P00029,Plus Cookware Set,Home & Kitchen,9560.81,Y,2024-01-01,2024-06-01,False
+P00029,Plus Cookware Set,Home & Kitchen,9900.26,Y,2024-06-01,,True
+P00030,Pro Comic Bundle,Books,11313.56,Y,2024-01-01,,True
+P00031,Lite Comic Bundle,Books,9096.12,Y,2024-01-01,,True
+P00032,Mini Perfume,Beauty,2972.8,Y,2024-01-01,,True
+P00033,Pro Earbuds,Electronics,3874.45,Y,2024-01-01,,True
+P00034,Smart Face Serum,Beauty,209.8,Y,2024-01-01,2024-06-01,False
+P00034,Smart Face Serum,Beauty,188.21,Y,2024-06-01,,True
+P00035,Ultra Lipstick,Beauty,11526.61,Y,2024-01-01,,True
+P00036,Pro Novel,Books,2532.85,Y,2024-01-01,,True
+P00037,Ultra Blender,Home & Kitchen,15375.83,Y,2024-01-01,,True
+P00038,Max Planner,Books,5516.66,Y,2024-01-01,2024-06-01,False
+P00038,Max Planner,Books,4807.61,Y,2024-06-01,,True
+P00039,Lite Cookbook,Books,11770.16,Y,2024-01-01,,True
+P00040,Ultra Cereal Box,Grocery,2951.4,Y,2024-01-01,2024-06-01,False
+P00040,Ultra Cereal Box,Grocery,3257.63,Y,2024-06-01,,True
+P00041,Lite Cookbook,Books,6177.47,Y,2024-01-01,,True
+P00042,Lite Dumbbell Set,Sports,11714.53,Y,2024-01-01,,True
+P00043,Pro Coffee Beans,Grocery,3075.89,Y,2024-01-01,2024-06-01,False
+P00043,Pro Coffee Beans,Grocery,3328.5,N,2024-06-01,,True
+P00044,Plus Comic Bundle,Books,10305.42,Y,2024-01-01,,True
+P00045,Lite Handbag,Fashion,5431.46,Y,2024-01-01,,True
+P00046,Ultra Sneakers,Fashion,15720.6,Y,2024-01-01,2024-06-01,False
+P00046,Ultra Sneakers,Fashion,17265.34,Y,2024-06-01,,True
+P00047,Ultra Blender,Home & Kitchen,7255.75,Y,2024-01-01,,True
+P00048,Plus Dumbbell Set,Sports,11151.18,Y,2024-01-01,,True
+P00049,Max Notebook Set,Books,11581.53,Y,2024-01-01,,True
+P00050,Smart Power Bank,Electronics,11773.84,Y,2024-01-01,,True
+P00051,Smart Bed Sheet Set,Home & Kitchen,14130.98,Y,2024-01-01,,True
+P00052,Classic Comic Bundle,Books,1801.57,Y,2024-01-01,,True
+P00053,Plus Board Game,Toys,2768.97,Y,2024-01-01,,True
+P00054,Mini T-Shirt,Fashion,516.23,Y,2024-01-01,,True
+P00055,Max Yoga Mat,Sports,5599.57,Y,2024-01-01,,True
+P00056,Max Almonds 500g,Grocery,8842.33,Y,2024-01-01,,True
+P00057,Smart Denim Jacket,Fashion,11330.17,Y,2024-01-01,,True
+P00058,Classic Almonds 500g,Grocery,2681.24,Y,2024-01-01,,True
+P00059,Plus Denim Jacket,Fashion,15594.5,Y,2024-01-01,,True
+P00060,Mini Coffee Beans,Grocery,10636.45,Y,2024-01-01,,True
+P00061,Max Dumbbell Set,Sports,983.24,Y,2024-01-01,2024-06-01,False
+P00061,Max Dumbbell Set,Sports,1021.48,Y,2024-06-01,,True
+P00062,Pro RC Car,Toys,5900.1,Y,2024-01-01,,True
+P00063,Mini Green Tea Pack,Grocery,13216.58,Y,2024-01-01,2024-06-01,False
+P00063,Mini Green Tea Pack,Grocery,13216.58,N,2024-06-01,,True
+P00064,Max RC Car,Toys,605.62,Y,2024-01-01,,True
+P00065,Max Air Fryer,Home & Kitchen,7681.42,Y,2024-01-01,,True
+P00066,Classic Denim Jacket,Fashion,7639.92,Y,2024-01-01,,True
+P00067,Classic Yoga Mat,Sports,3120.12,Y,2024-01-01,,True
+P00068,Lite Olive Oil 1L,Grocery,7242.25,Y,2024-01-01,,True
+P00069,Smart Cricket Bat,Sports,4360.73,Y,2024-01-01,,True
+P00070,Pro Cycling Helmet,Sports,2586.86,Y,2024-01-01,,True
+P00071,Ultra T-Shirt,Fashion,12968.25,Y,2024-01-01,,True
+P00072,Plus Coffee Beans,Grocery,8945.91,Y,2024-01-01,2024-06-01,False
+P00072,Plus Coffee Beans,Grocery,8300.17,Y,2024-06-01,,True
+P00073,Classic Coffee Beans,Grocery,15455.92,Y,2024-01-01,,True
+P00074,Plus Board Game,Toys,7723.94,Y,2024-01-01,,True
+P00075,Pro Handbag,Fashion,8132.2,Y,2024-01-01,,True
+P00076,Smart Blender,Home & Kitchen,2930.49,Y,2024-01-01,,True
+P00077,Plus Cookware Set,Home & Kitchen,2192.74,Y,2024-01-01,,True
+P00078,Classic Green Tea Pack,Grocery,3389.32,Y,2024-01-01,,True
+P00079,Mini Table Lamp,Home & Kitchen,5251.04,Y,2024-01-01,,True
+P00080,Classic T-Shirt,Fashion,8989.55,Y,2024-01-01,,True
+P00081,Smart Notebook Set,Books,14690.16,Y,2024-01-01,,True
+P00082,Classic Laptop Stand,Electronics,1976.8,Y,2024-01-01,,True
+P00083,Max Cookware Set,Home & Kitchen,14812.87,Y,2024-01-01,,True
+P00084,Ultra Denim Jacket,Fashion,14069.72,Y,2024-01-01,2024-06-01,False
+P00084,Ultra Denim Jacket,Fashion,12633.57,Y,2024-06-01,,True
+P00085,Smart Cricket Bat,Sports,9236.97,Y,2024-01-01,2024-06-01,False
+P00085,Smart Cricket Bat,Sports,10366.46,Y,2024-06-01,,True
+P00086,Lite Building Blocks,Toys,4550.54,Y,2024-01-01,,True
+P00087,Classic Table Lamp,Home & Kitchen,811.76,Y,2024-01-01,,True
+P00088,Pro Cookbook,Books,11981.85,Y,2024-01-01,2024-06-01,False
+P00088,Pro Cookbook,Books,12723.95,Y,2024-06-01,,True
+P00089,Pro Running Shoes,Sports,5537.28,Y,2024-01-01,,True
+P00090,Mini Running Shoes,Sports,13515.98,Y,2024-01-01,,True
+P00091,Lite Sneakers,Fashion,4946.59,Y,2024-01-01,,True
+P00092,Mini Puzzle Set,Toys,11714.03,Y,2024-01-01,,True
+P00093,Smart Sneakers,Fashion,3538.97,Y,2024-01-01,2024-06-01,False
+P00093,Smart Sneakers,Fashion,3592.91,Y,2024-06-01,,True
+P00094,Ultra Cereal Box,Grocery,13171.07,Y,2024-01-01,,True
+P00095,Mini Blender,Home & Kitchen,11410.2,Y,2024-01-01,2024-06-01,False
+P00095,Mini Blender,Home & Kitchen,13673.3,Y,2024-06-01,,True
+P00096,Pro Almonds 500g,Grocery,2944.05,Y,2024-01-01,2024-06-01,False
+P00096,Pro Almonds 500g,Grocery,2680.0,Y,2024-06-01,,True
+P00097,Plus Face Serum,Beauty,721.52,Y,2024-01-01,,True
+P00098,Plus Bluetooth Speaker,Electronics,4527.84,Y,2024-01-01,2024-06-01,False
+P00098,Plus Bluetooth Speaker,Electronics,5645.94,Y,2024-06-01,,True
+P00099,Classic Board Game,Toys,10238.47,Y,2024-01-01,,True
+P00100,Plus T-Shirt,Fashion,6083.97,Y,2024-01-01,2024-06-01,False
+P00100,Plus T-Shirt,Fashion,6005.29,N,2024-06-01,,True
+P00101,Smart RC Car,Toys,9471.71,Y,2024-01-01,,True
+P00102,Lite Notebook Set,Books,13433.93,Y,2024-01-01,,True
+P00103,Mini Yoga Mat,Sports,632.72,Y,2024-01-01,,True
+P00104,Plus Smartwatch,Electronics,13741.36,Y,2024-01-01,2024-06-01,False
+P00104,Plus Smartwatch,Electronics,17106.3,Y,2024-06-01,,True
+P00105,Mini Lipstick,Beauty,10494.08,Y,2024-01-01,,True
+P00106,Smart Earbuds,Electronics,14600.94,Y,2024-01-01,,True
+P00107,Pro Table Lamp,Home & Kitchen,3734.57,Y,2024-01-01,,True
+P00108,Classic Running Shoes,Sports,14347.63,Y,2024-01-01,2024-06-01,False
+P00108,Classic Running Shoes,Sports,17319.57,Y,2024-06-01,,True
+P00109,Mini Planner,Books,3646.7,Y,2024-01-01,,True
+P00110,Classic Cycling Helmet,Sports,9433.9,Y,2024-01-01,,True
+P00111,Ultra Laptop Stand,Electronics,9070.02,Y,2024-01-01,,True
+P00112,Max Running Shoes,Sports,7810.47,Y,2024-01-01,,True
+P00113,Ultra Notebook Set,Books,13810.57,Y,2024-01-01,2024-06-01,False
+P00113,Ultra Notebook Set,Books,17189.46,Y,2024-06-01,,True
+P00114,Plus Running Shoes,Sports,2567.88,Y,2024-01-01,,True
+P00115,Classic Face Serum,Beauty,10635.38,Y,2024-01-01,,True
+P00116,Smart Blender,Home & Kitchen,15959.01,Y,2024-01-01,2024-06-01,False
+P00116,Smart Blender,Home & Kitchen,14479.44,Y,2024-06-01,,True
+P00117,Classic Cricket Bat,Sports,6333.74,Y,2024-01-01,2024-06-01,False
+P00117,Classic Cricket Bat,Sports,7568.55,Y,2024-06-01,,True
+P00118,Plus Laptop Stand,Electronics,5621.04,Y,2024-01-01,,True
+P00119,Smart Sunscreen,Beauty,14522.12,Y,2024-01-01,,True
+P00120,Mini Comic Bundle,Books,13556.62,Y,2024-01-01,,True
+P00121,Pro Air Fryer,Home & Kitchen,273.47,Y,2024-06-01,,True
+P00122,Lite Dumbbell Set,Sports,9304.21,Y,2024-06-01,,True
+P00123,Max Bed Sheet Set,Home & Kitchen,2243.61,Y,2024-06-01,,True
+P00124,Classic Cereal Box,Grocery,6977.6,Y,2024-06-01,,True
+P00125,Pro Action Figure,Toys,795.06,Y,2024-06-01,,True
+P00126,Pro Shampoo,Beauty,14292.7,Y,2024-06-01,,True
+P00127,Pro Face Serum,Beauty,10100.65,Y,2024-06-01,,True

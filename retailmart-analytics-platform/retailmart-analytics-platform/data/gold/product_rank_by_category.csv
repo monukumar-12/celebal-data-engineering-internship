@@ -1,0 +1,41 @@
+category,product_id,product_name,units_sold,revenue,revenue_rank_in_category,units_rank_in_category,pct_of_category_revenue
+Beauty,P00119,Smart Sunscreen,153.0,2221884.36,1,5,14.43
+Beauty,P00009,Plus Lipstick,139.0,1836612.56,2,10,11.93
+Beauty,P00027,Pro Shampoo,149.0,1828377.51,3,7,11.87
+Beauty,P00115,Classic Face Serum,160.0,1701660.8,4,4,11.05
+Beauty,P00021,Pro Sunscreen,107.0,1693979.06,5,12,11.0
+Books,P00010,Mini Novel,172.0,2527431.64,1,3,8.27
+Books,P00013,Pro Novel,162.0,2444098.86,2,5,7.99
+Books,P00120,Mini Comic Bundle,167.0,2263955.54,3,4,7.4
+Books,P00088,Pro Cookbook,182.0,2180696.7,4,1,7.13
+Books,P00039,Lite Cookbook,176.0,2071548.16,5,2,6.78
+Electronics,P00104,Plus Smartwatch,174.0,2390996.64,1,2,19.66
+Electronics,P00106,Smart Earbuds,140.0,2044131.6,2,7,16.8
+Electronics,P00050,Smart Power Bank,163.0,1919135.92,3,4,15.78
+Electronics,P00111,Ultra Laptop Stand,174.0,1578183.48,4,2,12.97
+Electronics,P00014,Classic Smartwatch,118.0,1555432.34,5,8,12.79
+Fashion,P00046,Ultra Sneakers,167.0,2625340.2,1,2,14.27
+Fashion,P00071,Ultra T-Shirt,181.0,2347253.25,2,1,12.76
+Fashion,P00059,Plus Denim Jacket,139.0,2167635.5,3,4,11.78
+Fashion,P00084,Ultra Denim Jacket,134.0,1885342.48,4,7,10.25
+Fashion,P00002,Lite T-Shirt,138.0,1788346.14,5,5,9.72
+Grocery,P00063,Mini Green Tea Pack,187.0,2471500.46,1,2,16.4
+Grocery,P00073,Classic Coffee Beans,148.0,2287476.16,2,6,15.18
+Grocery,P00094,Ultra Cereal Box,158.0,2081029.06,3,5,13.81
+Grocery,P00060,Mini Coffee Beans,121.0,1287010.45,4,11,8.54
+Grocery,P00072,Plus Coffee Beans,143.0,1279265.13,5,7,8.49
+Home & Kitchen,P00116,Smart Blender,165.0,2633236.65,1,4,14.56
+Home & Kitchen,P00051,Smart Bed Sheet Set,137.0,1935944.26,2,10,10.7
+Home & Kitchen,P00095,Mini Blender,168.0,1916913.6,3,3,10.6
+Home & Kitchen,P00083,Max Cookware Set,129.0,1910860.23,4,12,10.56
+Home & Kitchen,P00018,Plus Blender,158.0,1647308.0,5,7,9.11
+Sports,P00108,Classic Running Shoes,155.0,2223882.65,1,10,10.54
+Sports,P00006,Pro Dumbbell Set,140.0,2133898.2,2,14,10.11
+Sports,P00090,Mini Running Shoes,139.0,1878721.22,3,15,8.9
+Sports,P00085,Smart Cricket Bat,180.0,1662654.6,4,2,7.88
+Sports,P00042,Lite Dumbbell Set,126.0,1476030.78,5,16,6.99
+Toys,P00012,Max RC Car,138.0,2000893.74,1,9,19.4
+Toys,P00092,Mini Puzzle Set,155.0,1815674.65,2,4,17.61
+Toys,P00074,Plus Board Game,199.0,1537064.06,3,1,14.91
+Toys,P00099,Classic Board Game,149.0,1525532.03,4,6,14.79
+Toys,P00101,Smart RC Car,123.0,1165020.33,5,10,11.3

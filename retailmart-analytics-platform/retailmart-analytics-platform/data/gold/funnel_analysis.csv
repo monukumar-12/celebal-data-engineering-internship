@@ -1,0 +1,2 @@
+total_orders,reached_placed,reached_shipped,reached_delivered,cancelled,returned,pct_placed_to_shipped,pct_shipped_to_delivered,pct_cancelled,pct_returned
+3000,2645,2356,1915,355,219,89.1,81.3,11.8,7.3

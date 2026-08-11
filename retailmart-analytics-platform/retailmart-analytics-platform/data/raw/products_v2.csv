@@ -1,0 +1,128 @@
+product_id,product_name,category,price,active
+P00001,Mini Perfume,Beauty,7519.88,Y
+P00002,Lite T-Shirt,Fashion,12959.03,Y
+P00003,Pro Cycling Helmet,Sports,3596.33,Y
+P00004,Max Cookbook,Books,11435.29,Y
+P00005,Pro Planner,Books,10898.5,Y
+P00006,Pro Dumbbell Set,Sports,15242.13,Y
+P00007,Plus Board Game,Toys,1695.66,Y
+P00008,Max Sneakers,Fashion,387.92,Y
+P00009,Plus Lipstick,Beauty,13213.04,Y
+P00010,Mini Novel,Books,14694.37,Y
+P00011,Max T-Shirt,Fashion,3323.46,N
+P00012,Max RC Car,Toys,14762.96,Y
+P00013,Pro Novel,Books,18175.91,Y
+P00014,Classic Smartwatch,Electronics,13181.63,Y
+P00015,Pro Cereal Box,Grocery,6246.13,Y
+P00016,Ultra Almonds 500g,Grocery,3591.51,Y
+P00017,Mini Air Fryer,Home & Kitchen,7236.36,Y
+P00018,Plus Blender,Home & Kitchen,10426.0,Y
+P00019,Smart Action Figure,Toys,1162.47,Y
+P00020,Lite Cricket Bat,Sports,6822.91,Y
+P00021,Pro Sunscreen,Beauty,15831.58,Y
+P00022,Smart Planner,Books,5634.74,Y
+P00023,Mini Planner,Books,3040.09,Y
+P00024,Plus Comic Bundle,Books,717.75,N
+P00025,Smart Yoga Mat,Sports,8564.03,Y
+P00026,Max Lipstick,Beauty,4115.14,Y
+P00027,Pro Shampoo,Beauty,12270.99,Y
+P00028,Classic Sunscreen,Beauty,5804.91,Y
+P00029,Plus Cookware Set,Home & Kitchen,9900.26,Y
+P00030,Pro Comic Bundle,Books,11313.56,Y
+P00031,Lite Comic Bundle,Books,9096.12,Y
+P00032,Mini Perfume,Beauty,2972.8,Y
+P00033,Pro Earbuds,Electronics,3874.45,Y
+P00034,Smart Face Serum,Beauty,188.21,Y
+P00035,Ultra Lipstick,Beauty,11526.61,Y
+P00036,Pro Novel,Books,2532.85,Y
+P00037,Ultra Blender,Home & Kitchen,15375.83,Y
+P00038,Max Planner,Books,4807.61,Y
+P00039,Lite Cookbook,Books,11770.16,Y
+P00040,Ultra Cereal Box,Grocery,3257.63,Y
+P00041,Lite Cookbook,Books,6177.47,Y
+P00042,Lite Dumbbell Set,Sports,11714.53,Y
+P00043,Pro Coffee Beans,Grocery,3328.5,N
+P00044,Plus Comic Bundle,Books,10305.42,Y
+P00045,Lite Handbag,Fashion,5431.46,Y
+P00046,Ultra Sneakers,Fashion,17265.34,Y
+P00047,Ultra Blender,Home & Kitchen,7255.75,Y
+P00048,Plus Dumbbell Set,Sports,11151.18,Y
+P00049,Max Notebook Set,Books,11581.53,Y
+P00050,Smart Power Bank,Electronics,11773.84,Y
+P00051,Smart Bed Sheet Set,Home & Kitchen,14130.98,Y
+P00052,Classic Comic Bundle,Books,1801.57,Y
+P00053,Plus Board Game,Toys,2768.97,Y
+P00054,Mini T-Shirt,Fashion,516.23,Y
+P00055,Max Yoga Mat,Sports,5599.57,Y
+P00056,Max Almonds 500g,Grocery,8842.33,Y
+P00057,Smart Denim Jacket,Fashion,11330.17,Y
+P00058,Classic Almonds 500g,Grocery,2681.24,Y
+P00059,Plus Denim Jacket,Fashion,15594.5,Y
+P00060,Mini Coffee Beans,Grocery,10636.45,Y
+P00061,Max Dumbbell Set,Sports,1021.48,Y
+P00062,Pro RC Car,Toys,5900.1,Y
+P00063,Mini Green Tea Pack,Grocery,13216.58,N
+P00064,Max RC Car,Toys,605.62,Y
+P00065,Max Air Fryer,Home & Kitchen,7681.42,Y
+P00066,Classic Denim Jacket,Fashion,7639.92,Y
+P00067,Classic Yoga Mat,Sports,3120.12,Y
+P00068,Lite Olive Oil 1L,Grocery,7242.25,Y
+P00069,Smart Cricket Bat,Sports,4360.73,Y
+P00070,Pro Cycling Helmet,Sports,2586.86,Y
+P00071,Ultra T-Shirt,Fashion,12968.25,Y
+P00072,Plus Coffee Beans,Grocery,8300.17,Y
+P00073,Classic Coffee Beans,Grocery,15455.92,Y
+P00074,Plus Board Game,Toys,7723.94,Y
+P00075,Pro Handbag,Fashion,8132.2,Y
+P00076,Smart Blender,Home & Kitchen,2930.49,Y
+P00077,Plus Cookware Set,Home & Kitchen,2192.74,Y
+P00078,Classic Green Tea Pack,Grocery,3389.32,Y
+P00079,Mini Table Lamp,Home & Kitchen,5251.04,Y
+P00080,Classic T-Shirt,Fashion,8989.55,Y
+P00081,Smart Notebook Set,Books,14690.16,Y
+P00082,Classic Laptop Stand,Electronics,1976.8,Y
+P00083,Max Cookware Set,Home & Kitchen,14812.87,Y
+P00084,Ultra Denim Jacket,Fashion,12633.57,Y
+P00085,Smart Cricket Bat,Sports,10366.46,Y
+P00086,Lite Building Blocks,Toys,4550.54,Y
+P00087,Classic Table Lamp,Home & Kitchen,811.76,Y
+P00088,Pro Cookbook,Books,12723.95,Y
+P00089,Pro Running Shoes,Sports,5537.28,Y
+P00090,Mini Running Shoes,Sports,13515.98,Y
+P00091,Lite Sneakers,Fashion,4946.59,Y
+P00092,Mini Puzzle Set,Toys,11714.03,Y
+P00093,Smart Sneakers,Fashion,3592.91,Y
+P00094,Ultra Cereal Box,Grocery,13171.07,Y
+P00095,Mini Blender,Home & Kitchen,13673.3,Y
+P00096,Pro Almonds 500g,Grocery,2680.0,Y
+P00097,Plus Face Serum,Beauty,721.52,Y
+P00098,Plus Bluetooth Speaker,Electronics,5645.94,Y
+P00099,Classic Board Game,Toys,10238.47,Y
+P00100,Plus T-Shirt,Fashion,6005.29,N
+P00101,Smart RC Car,Toys,9471.71,Y
+P00102,Lite Notebook Set,Books,13433.93,Y
+P00103,Mini Yoga Mat,Sports,632.72,Y
+P00104,Plus Smartwatch,Electronics,17106.3,Y
+P00105,Mini Lipstick,Beauty,10494.08,Y
+P00106,Smart Earbuds,Electronics,14600.94,Y
+P00107,Pro Table Lamp,Home & Kitchen,3734.57,Y
+P00108,Classic Running Shoes,Sports,17319.57,Y
+P00109,Mini Planner,Books,3646.7,Y
+P00110,Classic Cycling Helmet,Sports,9433.9,Y
+P00111,Ultra Laptop Stand,Electronics,9070.02,Y
+P00112,Max Running Shoes,Sports,7810.47,Y
+P00113,Ultra Notebook Set,Books,17189.46,Y
+P00114,Plus Running Shoes,Sports,2567.88,Y
+P00115,Classic Face Serum,Beauty,10635.38,Y
+P00116,Smart Blender,Home & Kitchen,14479.44,Y
+P00117,Classic Cricket Bat,Sports,7568.55,Y
+P00118,Plus Laptop Stand,Electronics,5621.04,Y
+P00119,Smart Sunscreen,Beauty,14522.12,Y
+P00120,Mini Comic Bundle,Books,13556.62,Y
+P00121,Pro Air Fryer,Home & Kitchen,273.47,Y
+P00122,Lite Dumbbell Set,Sports,9304.21,Y
+P00123,Max Bed Sheet Set,Home & Kitchen,2243.61,Y
+P00124,Classic Cereal Box,Grocery,6977.6,Y
+P00125,Pro Action Figure,Toys,795.06,Y
+P00126,Pro Shampoo,Beauty,14292.7,Y
+P00127,Pro Face Serum,Beauty,10100.65,Y

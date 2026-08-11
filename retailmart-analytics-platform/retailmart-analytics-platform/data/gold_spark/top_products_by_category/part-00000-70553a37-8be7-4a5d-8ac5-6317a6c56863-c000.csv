@@ -1,0 +1,41 @@
+product_id,product_name,category,units_sold,revenue,rank_in_category
+P00119,Smart Sunscreen,Beauty,153,2221884.36,1
+P00009,Plus Lipstick,Beauty,139,1836612.56,2
+P00027,Pro Shampoo,Beauty,149,1828377.51,3
+P00115,Classic Face Serum,Beauty,160,1701660.8,4
+P00021,Pro Sunscreen,Beauty,107,1693979.06,5
+P00010,Mini Novel,Books,172,2527431.64,1
+P00013,Pro Novel,Books,162,2444098.86,2
+P00120,Mini Comic Bundle,Books,167,2263955.54,3
+P00088,Pro Cookbook,Books,182,2180696.7,4
+P00039,Lite Cookbook,Books,176,2071548.16,5
+P00104,Plus Smartwatch,Electronics,174,2390996.64,1
+P00106,Smart Earbuds,Electronics,140,2044131.6,2
+P00050,Smart Power Bank,Electronics,163,1919135.92,3
+P00111,Ultra Laptop Stand,Electronics,174,1578183.48,4
+P00014,Classic Smartwatch,Electronics,118,1555432.34,5
+P00046,Ultra Sneakers,Fashion,167,2625340.2,1
+P00071,Ultra T-Shirt,Fashion,181,2347253.25,2
+P00059,Plus Denim Jacket,Fashion,139,2167635.5,3
+P00084,Ultra Denim Jacket,Fashion,134,1885342.48,4
+P00002,Lite T-Shirt,Fashion,138,1788346.14,5
+P00063,Mini Green Tea Pack,Grocery,187,2471500.46,1
+P00073,Classic Coffee Beans,Grocery,148,2287476.16,2
+P00094,Ultra Cereal Box,Grocery,158,2081029.06,3
+P00060,Mini Coffee Beans,Grocery,121,1287010.45,4
+P00072,Plus Coffee Beans,Grocery,143,1279265.13,5
+P00116,Smart Blender,Home & Kitchen,165,2633236.65,1
+P00051,Smart Bed Sheet Set,Home & Kitchen,137,1935944.26,2
+P00095,Mini Blender,Home & Kitchen,168,1916913.6,3
+P00083,Max Cookware Set,Home & Kitchen,129,1910860.23,4
+P00018,Plus Blender,Home & Kitchen,158,1647308.0,5
+P00108,Classic Running Shoes,Sports,155,2223882.65,1
+P00006,Pro Dumbbell Set,Sports,140,2133898.2,2
+P00090,Mini Running Shoes,Sports,139,1878721.22,3
+P00085,Smart Cricket Bat,Sports,180,1662654.6,4
+P00042,Lite Dumbbell Set,Sports,126,1476030.78,5
+P00012,Max RC Car,Toys,138,2000893.74,1
+P00092,Mini Puzzle Set,Toys,155,1815674.65,2
+P00074,Plus Board Game,Toys,199,1537064.06,3
+P00099,Classic Board Game,Toys,149,1525532.03,4
+P00101,Smart RC Car,Toys,123,1165020.33,5

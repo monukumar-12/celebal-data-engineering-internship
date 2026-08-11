@@ -1,0 +1,19 @@
+# RetailMart Analytics Platform - Python dependencies
+#
+# Core pipeline (Bronze -> Silver -> Gold), no Spark required:
+pandas>=2.0,<3.0        # pandas 3.x is not yet fully supported by PySpark
+numpy>=1.24
+
+# Gold layer SQL engine (in-process, no server needed)
+duckdb>=1.0
+
+# PySpark job (src/spark/revenue_at_scale.py)
+# Requires a local JDK (Java 11 or 17 recommended) on PATH.
+pyspark==3.5.3
+
+# Delta Lake SCD2 job (src/delta/scd2_product_catalog.py)
+# NOTE: on first run, Spark downloads the Delta JARs from Maven Central,
+# so this step needs normal internet access (works on your laptop,
+# Databricks, EMR, etc). It will NOT work in network-restricted sandboxes.
+# pyspark==3.5.3 + delta-spark==3.2.0 is a known-compatible pair.
+delta-spark==3.2.0
